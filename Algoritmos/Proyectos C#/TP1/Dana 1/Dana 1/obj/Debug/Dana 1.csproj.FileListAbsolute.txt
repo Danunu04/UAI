@@ -1,0 +1,10 @@
+C:\Users\nicop\Desktop\UAI\1er año\2do cuatrimestre\Algoritmos\Proyectos C#\TP1\Dana 1\Dana 1\bin\Debug\Dana 1.exe.config
+C:\Users\nicop\Desktop\UAI\1er año\2do cuatrimestre\Algoritmos\Proyectos C#\TP1\Dana 1\Dana 1\bin\Debug\Dana 1.exe
+C:\Users\nicop\Desktop\UAI\1er año\2do cuatrimestre\Algoritmos\Proyectos C#\TP1\Dana 1\Dana 1\bin\Debug\Dana 1.pdb
+C:\Users\nicop\Desktop\UAI\1er año\2do cuatrimestre\Algoritmos\Proyectos C#\TP1\Dana 1\Dana 1\obj\Debug\Dana 1.csproj.AssemblyReference.cache
+C:\Users\nicop\Desktop\UAI\1er año\2do cuatrimestre\Algoritmos\Proyectos C#\TP1\Dana 1\Dana 1\obj\Debug\Dana_1.Form1.resources
+C:\Users\nicop\Desktop\UAI\1er año\2do cuatrimestre\Algoritmos\Proyectos C#\TP1\Dana 1\Dana 1\obj\Debug\Dana_1.Properties.Resources.resources
+C:\Users\nicop\Desktop\UAI\1er año\2do cuatrimestre\Algoritmos\Proyectos C#\TP1\Dana 1\Dana 1\obj\Debug\Dana 1.csproj.GenerateResource.cache
+C:\Users\nicop\Desktop\UAI\1er año\2do cuatrimestre\Algoritmos\Proyectos C#\TP1\Dana 1\Dana 1\obj\Debug\Dana 1.csproj.CoreCompileInputs.cache
+C:\Users\nicop\Desktop\UAI\1er año\2do cuatrimestre\Algoritmos\Proyectos C#\TP1\Dana 1\Dana 1\obj\Debug\Dana 1.exe
+C:\Users\nicop\Desktop\UAI\1er año\2do cuatrimestre\Algoritmos\Proyectos C#\TP1\Dana 1\Dana 1\obj\Debug\Dana 1.pdb

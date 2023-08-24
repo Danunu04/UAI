@@ -1,0 +1,7 @@
+C:\Users\nicop\Desktop\UAI\1er año\2do cuatrimestre\Algoritmos\Proyectos C#\TP1\Tp 1\Tp 1\bin\Debug\Tp 1.exe.config
+C:\Users\nicop\Desktop\UAI\1er año\2do cuatrimestre\Algoritmos\Proyectos C#\TP1\Tp 1\Tp 1\bin\Debug\Tp 1.exe
+C:\Users\nicop\Desktop\UAI\1er año\2do cuatrimestre\Algoritmos\Proyectos C#\TP1\Tp 1\Tp 1\bin\Debug\Tp 1.pdb
+C:\Users\nicop\Desktop\UAI\1er año\2do cuatrimestre\Algoritmos\Proyectos C#\TP1\Tp 1\Tp 1\obj\Debug\Tp 1.csproj.AssemblyReference.cache
+C:\Users\nicop\Desktop\UAI\1er año\2do cuatrimestre\Algoritmos\Proyectos C#\TP1\Tp 1\Tp 1\obj\Debug\Tp 1.csproj.CoreCompileInputs.cache
+C:\Users\nicop\Desktop\UAI\1er año\2do cuatrimestre\Algoritmos\Proyectos C#\TP1\Tp 1\Tp 1\obj\Debug\Tp 1.exe
+C:\Users\nicop\Desktop\UAI\1er año\2do cuatrimestre\Algoritmos\Proyectos C#\TP1\Tp 1\Tp 1\obj\Debug\Tp 1.pdb

@@ -1,0 +1,10 @@
+C:\Users\nicop\Desktop\UAI\1er año\2do cuatrimestre\Algoritmos\Proyectos C#\TP1\Intento 2\Intento 2\bin\Debug\Intento 2.exe.config
+C:\Users\nicop\Desktop\UAI\1er año\2do cuatrimestre\Algoritmos\Proyectos C#\TP1\Intento 2\Intento 2\bin\Debug\Intento 2.exe
+C:\Users\nicop\Desktop\UAI\1er año\2do cuatrimestre\Algoritmos\Proyectos C#\TP1\Intento 2\Intento 2\bin\Debug\Intento 2.pdb
+C:\Users\nicop\Desktop\UAI\1er año\2do cuatrimestre\Algoritmos\Proyectos C#\TP1\Intento 2\Intento 2\obj\Debug\Intento 2.csproj.AssemblyReference.cache
+C:\Users\nicop\Desktop\UAI\1er año\2do cuatrimestre\Algoritmos\Proyectos C#\TP1\Intento 2\Intento 2\obj\Debug\Intento_2.CalculadoraSimple.resources
+C:\Users\nicop\Desktop\UAI\1er año\2do cuatrimestre\Algoritmos\Proyectos C#\TP1\Intento 2\Intento 2\obj\Debug\Intento_2.Properties.Resources.resources
+C:\Users\nicop\Desktop\UAI\1er año\2do cuatrimestre\Algoritmos\Proyectos C#\TP1\Intento 2\Intento 2\obj\Debug\Intento 2.csproj.GenerateResource.cache
+C:\Users\nicop\Desktop\UAI\1er año\2do cuatrimestre\Algoritmos\Proyectos C#\TP1\Intento 2\Intento 2\obj\Debug\Intento 2.csproj.CoreCompileInputs.cache
+C:\Users\nicop\Desktop\UAI\1er año\2do cuatrimestre\Algoritmos\Proyectos C#\TP1\Intento 2\Intento 2\obj\Debug\Intento 2.exe
+C:\Users\nicop\Desktop\UAI\1er año\2do cuatrimestre\Algoritmos\Proyectos C#\TP1\Intento 2\Intento 2\obj\Debug\Intento 2.pdb
