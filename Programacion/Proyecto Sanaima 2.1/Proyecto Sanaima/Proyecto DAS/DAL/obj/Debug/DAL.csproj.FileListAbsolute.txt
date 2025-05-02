@@ -1,0 +1,74 @@
+C:\Users\Santino\Desktop\Proyecto DAS\DAL\bin\Debug\DAL.dll
+C:\Users\Santino\Desktop\Proyecto DAS\DAL\bin\Debug\DAL.pdb
+C:\Users\Santino\Desktop\Proyecto DAS\DAL\bin\Debug\BE.dll
+C:\Users\Santino\Desktop\Proyecto DAS\DAL\bin\Debug\BE.pdb
+C:\Users\Santino\Desktop\Proyecto DAS\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Santino\Desktop\Proyecto DAS\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Santino\Desktop\Proyecto DAS\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Santino\Desktop\Proyecto DAS\DAL\obj\Debug\DAL.dll
+C:\Users\Santino\Desktop\Proyecto DAS\DAL\obj\Debug\DAL.pdb
+C:\Users\Navegador\Desktop\Proyecto DAS\Proyecto DAS\DAL\bin\Debug\DAL.dll
+C:\Users\Navegador\Desktop\Proyecto DAS\Proyecto DAS\DAL\bin\Debug\DAL.pdb
+C:\Users\Navegador\Desktop\Proyecto DAS\Proyecto DAS\DAL\bin\Debug\BE.dll
+C:\Users\Navegador\Desktop\Proyecto DAS\Proyecto DAS\DAL\bin\Debug\BE.pdb
+C:\Users\Navegador\Desktop\Proyecto DAS\Proyecto DAS\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Navegador\Desktop\Proyecto DAS\Proyecto DAS\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Navegador\Desktop\Proyecto DAS\Proyecto DAS\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\Navegador\Desktop\Proyecto DAS\Proyecto DAS\DAL\obj\Debug\DAL.dll
+C:\Users\Navegador\Desktop\Proyecto DAS\Proyecto DAS\DAL\obj\Debug\DAL.pdb
+C:\Users\Navegador\Desktop\Proyecto DAS\Proyecto DAS\DAL\obj\Debug\DAL.Properties.Resources.resources
+C:\Users\Navegador\Desktop\Proyecto DAS\Proyecto DAS\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+C:\Users\Navegador\Desktop\Proyecto DAS\Proyecto DAS\DAL\bin\Debug\Servicios.dll
+C:\Users\Navegador\Desktop\Proyecto DAS\Proyecto DAS\DAL\bin\Debug\Servicios.pdb
+C:\Users\Santino\Desktop\Proyecto DAS\Proyecto DAS\DAL\bin\Debug\DAL.dll
+C:\Users\Santino\Desktop\Proyecto DAS\Proyecto DAS\DAL\bin\Debug\DAL.pdb
+C:\Users\Santino\Desktop\Proyecto DAS\Proyecto DAS\DAL\bin\Debug\BE.dll
+C:\Users\Santino\Desktop\Proyecto DAS\Proyecto DAS\DAL\bin\Debug\Servicios.dll
+C:\Users\Santino\Desktop\Proyecto DAS\Proyecto DAS\DAL\bin\Debug\BE.pdb
+C:\Users\Santino\Desktop\Proyecto DAS\Proyecto DAS\DAL\bin\Debug\Servicios.pdb
+C:\Users\Santino\Desktop\Proyecto DAS\Proyecto DAS\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Santino\Desktop\Proyecto DAS\Proyecto DAS\DAL\obj\Debug\DAL.Properties.Resources.resources
+C:\Users\Santino\Desktop\Proyecto DAS\Proyecto DAS\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+C:\Users\Santino\Desktop\Proyecto DAS\Proyecto DAS\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Santino\Desktop\Proyecto DAS\Proyecto DAS\DAL\obj\Debug\DAL.dll
+C:\Users\Santino\Desktop\Proyecto DAS\Proyecto DAS\DAL\obj\Debug\DAL.pdb
+C:\Users\Santino\Desktop\Proyecto DAS\Proyecto DAS\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Santino\Desktop\Proyecto Sanaima\Proyecto DAS\DAL\bin\Debug\DAL.dll
+C:\Users\Santino\Desktop\Proyecto Sanaima\Proyecto DAS\DAL\bin\Debug\DAL.pdb
+C:\Users\Santino\Desktop\Proyecto Sanaima\Proyecto DAS\DAL\bin\Debug\BE.dll
+C:\Users\Santino\Desktop\Proyecto Sanaima\Proyecto DAS\DAL\bin\Debug\Servicios.dll
+C:\Users\Santino\Desktop\Proyecto Sanaima\Proyecto DAS\DAL\bin\Debug\BE.pdb
+C:\Users\Santino\Desktop\Proyecto Sanaima\Proyecto DAS\DAL\bin\Debug\Servicios.pdb
+C:\Users\Santino\Desktop\Proyecto Sanaima\Proyecto DAS\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Santino\Desktop\Proyecto Sanaima\Proyecto DAS\DAL\obj\Debug\DAL.Properties.Resources.resources
+C:\Users\Santino\Desktop\Proyecto Sanaima\Proyecto DAS\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+C:\Users\Santino\Desktop\Proyecto Sanaima\Proyecto DAS\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Santino\Desktop\Proyecto Sanaima\Proyecto DAS\DAL\obj\Debug\DAL.dll
+C:\Users\Santino\Desktop\Proyecto Sanaima\Proyecto DAS\DAL\obj\Debug\DAL.pdb
+C:\Users\Santino\Desktop\Proyecto Sanaima\Proyecto DAS\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\Ailu\Desktop\Proyecto Sanaima\Proyecto DAS\DAL\bin\Debug\DAL.dll
+C:\Users\Ailu\Desktop\Proyecto Sanaima\Proyecto DAS\DAL\bin\Debug\DAL.pdb
+C:\Users\Ailu\Desktop\Proyecto Sanaima\Proyecto DAS\DAL\bin\Debug\BE.dll
+C:\Users\Ailu\Desktop\Proyecto Sanaima\Proyecto DAS\DAL\bin\Debug\Servicios.dll
+C:\Users\Ailu\Desktop\Proyecto Sanaima\Proyecto DAS\DAL\bin\Debug\BE.pdb
+C:\Users\Ailu\Desktop\Proyecto Sanaima\Proyecto DAS\DAL\bin\Debug\Servicios.pdb
+C:\Users\Ailu\Desktop\Proyecto Sanaima\Proyecto DAS\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Ailu\Desktop\Proyecto Sanaima\Proyecto DAS\DAL\obj\Debug\DAL.Properties.Resources.resources
+C:\Users\Ailu\Desktop\Proyecto Sanaima\Proyecto DAS\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+C:\Users\Ailu\Desktop\Proyecto Sanaima\Proyecto DAS\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Ailu\Desktop\Proyecto Sanaima\Proyecto DAS\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\Ailu\Desktop\Proyecto Sanaima\Proyecto DAS\DAL\obj\Debug\DAL.dll
+C:\Users\Ailu\Desktop\Proyecto Sanaima\Proyecto DAS\DAL\obj\Debug\DAL.pdb
+C:\Users\dpere\OneDrive\Escritorio\Proyecto Sanaima 2.1\Proyecto Sanaima\Proyecto DAS\DAL\bin\Debug\DAL.dll
+C:\Users\dpere\OneDrive\Escritorio\Proyecto Sanaima 2.1\Proyecto Sanaima\Proyecto DAS\DAL\bin\Debug\DAL.pdb
+C:\Users\dpere\OneDrive\Escritorio\Proyecto Sanaima 2.1\Proyecto Sanaima\Proyecto DAS\DAL\bin\Debug\BE.dll
+C:\Users\dpere\OneDrive\Escritorio\Proyecto Sanaima 2.1\Proyecto Sanaima\Proyecto DAS\DAL\bin\Debug\Servicios.dll
+C:\Users\dpere\OneDrive\Escritorio\Proyecto Sanaima 2.1\Proyecto Sanaima\Proyecto DAS\DAL\bin\Debug\BE.pdb
+C:\Users\dpere\OneDrive\Escritorio\Proyecto Sanaima 2.1\Proyecto Sanaima\Proyecto DAS\DAL\bin\Debug\Servicios.pdb
+C:\Users\dpere\OneDrive\Escritorio\Proyecto Sanaima 2.1\Proyecto Sanaima\Proyecto DAS\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\dpere\OneDrive\Escritorio\Proyecto Sanaima 2.1\Proyecto Sanaima\Proyecto DAS\DAL\obj\Debug\DAL.Properties.Resources.resources
+C:\Users\dpere\OneDrive\Escritorio\Proyecto Sanaima 2.1\Proyecto Sanaima\Proyecto DAS\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+C:\Users\dpere\OneDrive\Escritorio\Proyecto Sanaima 2.1\Proyecto Sanaima\Proyecto DAS\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\dpere\OneDrive\Escritorio\Proyecto Sanaima 2.1\Proyecto Sanaima\Proyecto DAS\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\dpere\OneDrive\Escritorio\Proyecto Sanaima 2.1\Proyecto Sanaima\Proyecto DAS\DAL\obj\Debug\DAL.dll
+C:\Users\dpere\OneDrive\Escritorio\Proyecto Sanaima 2.1\Proyecto Sanaima\Proyecto DAS\DAL\obj\Debug\DAL.pdb

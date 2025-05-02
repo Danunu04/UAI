@@ -1,0 +1,9 @@
+TagRegistrar;Register
+TagModificar;Modify
+TagEliminar;Delete
+TagCodigoProd;Code
+TagResponsable;Person in Charge
+TagNombre;Name
+TagCosto;Cost
+TagDesgaste;Wear
+TagEstado;Status

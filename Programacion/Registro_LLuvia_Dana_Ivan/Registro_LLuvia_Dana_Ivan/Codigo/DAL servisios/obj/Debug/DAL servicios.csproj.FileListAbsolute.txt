@@ -1,0 +1,12 @@
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Codigo\DAL servisios\bin\Debug\DAL servisios.dll
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Codigo\DAL servisios\bin\Debug\DAL servisios.pdb
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Codigo\DAL servisios\obj\Debug\DAL servicios.csproj.AssemblyReference.cache
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Codigo\DAL servisios\obj\Debug\DAL servicios.csproj.CoreCompileInputs.cache
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Codigo\DAL servisios\obj\Debug\DAL servisios.dll
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Codigo\DAL servisios\obj\Debug\DAL servisios.pdb
+C:\Users\dpere\Escritorio\UAI\Programacion\Registro_LLuvia_Dana_Ivan\Registro_LLuvia_Dana_Ivan\Codigo\DAL servisios\bin\Debug\DAL servisios.dll
+C:\Users\dpere\Escritorio\UAI\Programacion\Registro_LLuvia_Dana_Ivan\Registro_LLuvia_Dana_Ivan\Codigo\DAL servisios\bin\Debug\DAL servisios.pdb
+C:\Users\dpere\Escritorio\UAI\Programacion\Registro_LLuvia_Dana_Ivan\Registro_LLuvia_Dana_Ivan\Codigo\DAL servisios\obj\Debug\DAL servicios.csproj.AssemblyReference.cache
+C:\Users\dpere\Escritorio\UAI\Programacion\Registro_LLuvia_Dana_Ivan\Registro_LLuvia_Dana_Ivan\Codigo\DAL servisios\obj\Debug\DAL servicios.csproj.CoreCompileInputs.cache
+C:\Users\dpere\Escritorio\UAI\Programacion\Registro_LLuvia_Dana_Ivan\Registro_LLuvia_Dana_Ivan\Codigo\DAL servisios\obj\Debug\DAL servisios.dll
+C:\Users\dpere\Escritorio\UAI\Programacion\Registro_LLuvia_Dana_Ivan\Registro_LLuvia_Dana_Ivan\Codigo\DAL servisios\obj\Debug\DAL servisios.pdb

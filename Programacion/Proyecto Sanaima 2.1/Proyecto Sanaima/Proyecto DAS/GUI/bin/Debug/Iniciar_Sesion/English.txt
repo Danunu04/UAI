@@ -1,0 +1,3 @@
+TaglblIngreseMail;Enter your email
+TaglblIngreseContra;Enter your password
+TagConfirmar;Confirm

@@ -1,0 +1,7 @@
+TagSalir;Exit
+TagReportes;Reports
+TagSesion;Session
+TagAdministracion;Administration
+TagRegistrarEmpleado;Register Employee
+TagVerMovimientos;View Movements
+TagProductos;Products

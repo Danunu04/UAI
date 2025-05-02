@@ -1,0 +1,9 @@
+TagRegistrar;Registrar
+TagModificar;Modificar
+TagEliminar;Eliminar
+TagCodigoProd;Código
+TagResponsable;Responsável
+TagNombre;Nome
+TagCosto;Custo
+TagDesgaste;Desgaste
+TagEstado;Estado

@@ -1,0 +1,106 @@
+C:\Users\juan-\OneDrive\Escritorio\TAREAS\TAREAS\Programacion\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\obj\Debug\SERVICIOS.csproj.AssemblyReference.cache
+C:\Users\juan-\OneDrive\Escritorio\TAREAS\TAREAS\Programacion\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\obj\Debug\SERVICIOS.Properties.Resources.resources
+C:\Users\juan-\OneDrive\Escritorio\TAREAS\TAREAS\Programacion\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\obj\Debug\SERVICIOS.csproj.GenerateResource.cache
+C:\Users\juan-\OneDrive\Escritorio\TAREAS\TAREAS\Programacion\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\obj\Debug\SERVICIOS.csproj.CoreCompileInputs.cache
+C:\Users\juan-\OneDrive\Escritorio\TAREAS\TAREAS\Programacion\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\bin\Debug\SERVICIOS.exe.config
+C:\Users\juan-\OneDrive\Escritorio\TAREAS\TAREAS\Programacion\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\bin\Debug\SERVICIOS.exe
+C:\Users\juan-\OneDrive\Escritorio\TAREAS\TAREAS\Programacion\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\bin\Debug\SERVICIOS.pdb
+C:\Users\juan-\OneDrive\Escritorio\TAREAS\TAREAS\Programacion\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\bin\Debug\BE.exe
+C:\Users\juan-\OneDrive\Escritorio\TAREAS\TAREAS\Programacion\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\bin\Debug\BE.pdb
+C:\Users\juan-\OneDrive\Escritorio\TAREAS\TAREAS\Programacion\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\bin\Debug\BE.exe.config
+C:\Users\juan-\OneDrive\Escritorio\TAREAS\TAREAS\Programacion\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\obj\Debug\SERVICIOS.csproj.CopyComplete
+C:\Users\juan-\OneDrive\Escritorio\TAREAS\TAREAS\Programacion\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\obj\Debug\SERVICIOS.exe
+C:\Users\juan-\OneDrive\Escritorio\TAREAS\TAREAS\Programacion\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\obj\Debug\SERVICIOS.pdb
+C:\Users\juan-\OneDrive\Escritorio\TAREAS\TAREAS\INGENIERIA DE SOFTWARE\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\bin\Debug\SERVICIOS.exe.config
+C:\Users\juan-\OneDrive\Escritorio\TAREAS\TAREAS\INGENIERIA DE SOFTWARE\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\bin\Debug\SERVICIOS.exe
+C:\Users\juan-\OneDrive\Escritorio\TAREAS\TAREAS\INGENIERIA DE SOFTWARE\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\bin\Debug\SERVICIOS.pdb
+C:\Users\juan-\OneDrive\Escritorio\TAREAS\TAREAS\INGENIERIA DE SOFTWARE\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\bin\Debug\BE.exe
+C:\Users\juan-\OneDrive\Escritorio\TAREAS\TAREAS\INGENIERIA DE SOFTWARE\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\bin\Debug\BE.pdb
+C:\Users\juan-\OneDrive\Escritorio\TAREAS\TAREAS\INGENIERIA DE SOFTWARE\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\bin\Debug\BE.exe.config
+C:\Users\juan-\OneDrive\Escritorio\TAREAS\TAREAS\INGENIERIA DE SOFTWARE\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\obj\Debug\SERVICIOS.csproj.AssemblyReference.cache
+C:\Users\juan-\OneDrive\Escritorio\TAREAS\TAREAS\INGENIERIA DE SOFTWARE\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\obj\Debug\SERVICIOS.Properties.Resources.resources
+C:\Users\juan-\OneDrive\Escritorio\TAREAS\TAREAS\INGENIERIA DE SOFTWARE\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\obj\Debug\SERVICIOS.csproj.GenerateResource.cache
+C:\Users\juan-\OneDrive\Escritorio\TAREAS\TAREAS\INGENIERIA DE SOFTWARE\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\obj\Debug\SERVICIOS.csproj.CoreCompileInputs.cache
+C:\Users\juan-\OneDrive\Escritorio\TAREAS\TAREAS\INGENIERIA DE SOFTWARE\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\obj\Debug\SERVICIOS.csproj.CopyComplete
+C:\Users\juan-\OneDrive\Escritorio\TAREAS\TAREAS\INGENIERIA DE SOFTWARE\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\obj\Debug\SERVICIOS.exe
+C:\Users\juan-\OneDrive\Escritorio\TAREAS\TAREAS\INGENIERIA DE SOFTWARE\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\obj\Debug\SERVICIOS.pdb
+C:\Users\Navegador\Desktop\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\bin\Debug\SERVICIOS.exe.config
+C:\Users\Navegador\Desktop\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\bin\Debug\SERVICIOS.exe
+C:\Users\Navegador\Desktop\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\bin\Debug\SERVICIOS.pdb
+C:\Users\Navegador\Desktop\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\bin\Debug\BE.exe
+C:\Users\Navegador\Desktop\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\bin\Debug\BE.pdb
+C:\Users\Navegador\Desktop\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\bin\Debug\BE.exe.config
+C:\Users\Navegador\Desktop\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\obj\Debug\SERVICIOS.csproj.AssemblyReference.cache
+C:\Users\Navegador\Desktop\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\obj\Debug\SERVICIOS.Properties.Resources.resources
+C:\Users\Navegador\Desktop\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\obj\Debug\SERVICIOS.csproj.GenerateResource.cache
+C:\Users\Navegador\Desktop\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\obj\Debug\SERVICIOS.csproj.CoreCompileInputs.cache
+C:\Users\Navegador\Desktop\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\obj\Debug\SERVICIOS.csproj.Up2Date
+C:\Users\Navegador\Desktop\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\obj\Debug\SERVICIOS.exe
+C:\Users\Navegador\Desktop\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\obj\Debug\SERVICIOS.pdb
+C:\Users\juan-\OneDrive\Escritorio\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\bin\Debug\SERVICIOS.exe.config
+C:\Users\juan-\OneDrive\Escritorio\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\bin\Debug\SERVICIOS.exe
+C:\Users\juan-\OneDrive\Escritorio\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\bin\Debug\SERVICIOS.pdb
+C:\Users\juan-\OneDrive\Escritorio\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\bin\Debug\BE.exe
+C:\Users\juan-\OneDrive\Escritorio\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\bin\Debug\BE.pdb
+C:\Users\juan-\OneDrive\Escritorio\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\bin\Debug\BE.exe.config
+C:\Users\juan-\OneDrive\Escritorio\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\obj\Debug\SERVICIOS.csproj.AssemblyReference.cache
+C:\Users\juan-\OneDrive\Escritorio\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\obj\Debug\SERVICIOS.Properties.Resources.resources
+C:\Users\juan-\OneDrive\Escritorio\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\obj\Debug\SERVICIOS.csproj.GenerateResource.cache
+C:\Users\juan-\OneDrive\Escritorio\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\obj\Debug\SERVICIOS.csproj.CoreCompileInputs.cache
+C:\Users\juan-\OneDrive\Escritorio\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\obj\Debug\SERVICIOS.exe
+C:\Users\juan-\OneDrive\Escritorio\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\obj\Debug\SERVICIOS.pdb
+C:\Users\juan-\OneDrive\Escritorio\INGENIERIA DE SOFTWARE\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\bin\Debug\SERVICIOS.exe.config
+C:\Users\juan-\OneDrive\Escritorio\INGENIERIA DE SOFTWARE\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\bin\Debug\SERVICIOS.exe
+C:\Users\juan-\OneDrive\Escritorio\INGENIERIA DE SOFTWARE\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\bin\Debug\SERVICIOS.pdb
+C:\Users\juan-\OneDrive\Escritorio\INGENIERIA DE SOFTWARE\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\bin\Debug\BE.exe
+C:\Users\juan-\OneDrive\Escritorio\INGENIERIA DE SOFTWARE\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\bin\Debug\BE.pdb
+C:\Users\juan-\OneDrive\Escritorio\INGENIERIA DE SOFTWARE\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\bin\Debug\BE.exe.config
+C:\Users\juan-\OneDrive\Escritorio\INGENIERIA DE SOFTWARE\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\obj\Debug\SERVICIOS.csproj.AssemblyReference.cache
+C:\Users\juan-\OneDrive\Escritorio\INGENIERIA DE SOFTWARE\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\obj\Debug\SERVICIOS.Properties.Resources.resources
+C:\Users\juan-\OneDrive\Escritorio\INGENIERIA DE SOFTWARE\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\obj\Debug\SERVICIOS.csproj.GenerateResource.cache
+C:\Users\juan-\OneDrive\Escritorio\INGENIERIA DE SOFTWARE\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\obj\Debug\SERVICIOS.csproj.CoreCompileInputs.cache
+C:\Users\juan-\OneDrive\Escritorio\INGENIERIA DE SOFTWARE\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\obj\Debug\SERVICIOS.csproj.CopyComplete
+C:\Users\juan-\OneDrive\Escritorio\INGENIERIA DE SOFTWARE\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\obj\Debug\SERVICIOS.exe
+C:\Users\juan-\OneDrive\Escritorio\INGENIERIA DE SOFTWARE\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\obj\Debug\SERVICIOS.pdb
+C:\Users\juan-\OneDrive\Escritorio\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\obj\Debug\SERVICIOS.csproj.Up2Date
+C:\Users\juan-\OneDrive\Escritorio\TAREAS\INGENIERIA DE SOFTWARE\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\bin\Debug\SERVICIOS.exe.config
+C:\Users\juan-\OneDrive\Escritorio\TAREAS\INGENIERIA DE SOFTWARE\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\bin\Debug\SERVICIOS.exe
+C:\Users\juan-\OneDrive\Escritorio\TAREAS\INGENIERIA DE SOFTWARE\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\bin\Debug\SERVICIOS.pdb
+C:\Users\juan-\OneDrive\Escritorio\TAREAS\INGENIERIA DE SOFTWARE\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\bin\Debug\BE.exe
+C:\Users\juan-\OneDrive\Escritorio\TAREAS\INGENIERIA DE SOFTWARE\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\bin\Debug\BE.pdb
+C:\Users\juan-\OneDrive\Escritorio\TAREAS\INGENIERIA DE SOFTWARE\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\bin\Debug\BE.exe.config
+C:\Users\juan-\OneDrive\Escritorio\TAREAS\INGENIERIA DE SOFTWARE\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\obj\Debug\SERVICIOS.csproj.AssemblyReference.cache
+C:\Users\juan-\OneDrive\Escritorio\TAREAS\INGENIERIA DE SOFTWARE\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\obj\Debug\SERVICIOS.Properties.Resources.resources
+C:\Users\juan-\OneDrive\Escritorio\TAREAS\INGENIERIA DE SOFTWARE\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\obj\Debug\SERVICIOS.csproj.GenerateResource.cache
+C:\Users\juan-\OneDrive\Escritorio\TAREAS\INGENIERIA DE SOFTWARE\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\obj\Debug\SERVICIOS.csproj.CoreCompileInputs.cache
+C:\Users\juan-\OneDrive\Escritorio\TAREAS\INGENIERIA DE SOFTWARE\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\obj\Debug\SERVICIOS.csproj.Up2Date
+C:\Users\juan-\OneDrive\Escritorio\TAREAS\INGENIERIA DE SOFTWARE\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\obj\Debug\SERVICIOS.exe
+C:\Users\juan-\OneDrive\Escritorio\TAREAS\INGENIERIA DE SOFTWARE\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\obj\Debug\SERVICIOS.pdb
+C:\Users\juan-\OneDrive\Escritorio\TAREAS\INGENIERIA DE SOFTWARE\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\bin\Debug\System.Memory.dll
+C:\Users\juan-\OneDrive\Escritorio\TAREAS\INGENIERIA DE SOFTWARE\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\bin\Debug\System.Text.Json.dll
+C:\Users\juan-\OneDrive\Escritorio\TAREAS\INGENIERIA DE SOFTWARE\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\juan-\OneDrive\Escritorio\TAREAS\INGENIERIA DE SOFTWARE\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\juan-\OneDrive\Escritorio\TAREAS\INGENIERIA DE SOFTWARE\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\bin\Debug\System.Buffers.dll
+C:\Users\juan-\OneDrive\Escritorio\TAREAS\INGENIERIA DE SOFTWARE\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\bin\Debug\System.ValueTuple.dll
+C:\Users\juan-\OneDrive\Escritorio\TAREAS\INGENIERIA DE SOFTWARE\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\juan-\OneDrive\Escritorio\TAREAS\INGENIERIA DE SOFTWARE\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\juan-\OneDrive\Escritorio\TAREAS\INGENIERIA DE SOFTWARE\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\juan-\OneDrive\Escritorio\TAREAS\INGENIERIA DE SOFTWARE\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\obj\Debug\SERVICIOS.csproj.SuggestedBindingRedirects.cache
+C:\Users\juan-\OneDrive\Escritorio\TAREAS\INGENIERIA DE SOFTWARE\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\obj\Debug\SERVICIOS.exe.config
+C:\Users\juan-\OneDrive\Escritorio\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\juan-\OneDrive\Escritorio\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\bin\Debug\itextsharp.dll
+C:\Users\juan-\OneDrive\Escritorio\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\bin\Debug\itextsharp.pdfa.dll
+C:\Users\juan-\OneDrive\Escritorio\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\juan-\OneDrive\Escritorio\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\bin\Debug\System.Memory.dll
+C:\Users\juan-\OneDrive\Escritorio\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\bin\Debug\System.Text.Json.dll
+C:\Users\juan-\OneDrive\Escritorio\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\juan-\OneDrive\Escritorio\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\juan-\OneDrive\Escritorio\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\bin\Debug\System.Buffers.dll
+C:\Users\juan-\OneDrive\Escritorio\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\bin\Debug\System.ValueTuple.dll
+C:\Users\juan-\OneDrive\Escritorio\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\juan-\OneDrive\Escritorio\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\juan-\OneDrive\Escritorio\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\juan-\OneDrive\Escritorio\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\juan-\OneDrive\Escritorio\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\bin\Debug\itextsharp.xml
+C:\Users\juan-\OneDrive\Escritorio\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\obj\Debug\SERVICIOS.csproj.SuggestedBindingRedirects.cache
+C:\Users\juan-\OneDrive\Escritorio\INGENIERIA DE SOFTWARE VINICOLA\SERVICIOS\obj\Debug\SERVICIOS.exe.config

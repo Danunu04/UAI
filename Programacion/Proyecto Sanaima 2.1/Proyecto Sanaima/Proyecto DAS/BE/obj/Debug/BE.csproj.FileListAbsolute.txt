@@ -1,0 +1,30 @@
+C:\Users\Santino\Desktop\Proyecto DAS\BE\bin\Debug\BE.dll
+C:\Users\Santino\Desktop\Proyecto DAS\BE\bin\Debug\BE.pdb
+C:\Users\Santino\Desktop\Proyecto DAS\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+C:\Users\Santino\Desktop\Proyecto DAS\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\Santino\Desktop\Proyecto DAS\BE\obj\Debug\BE.dll
+C:\Users\Santino\Desktop\Proyecto DAS\BE\obj\Debug\BE.pdb
+C:\Users\Navegador\Desktop\Proyecto DAS\Proyecto DAS\BE\bin\Debug\BE.dll
+C:\Users\Navegador\Desktop\Proyecto DAS\Proyecto DAS\BE\bin\Debug\BE.pdb
+C:\Users\Navegador\Desktop\Proyecto DAS\Proyecto DAS\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+C:\Users\Navegador\Desktop\Proyecto DAS\Proyecto DAS\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\Navegador\Desktop\Proyecto DAS\Proyecto DAS\BE\obj\Debug\BE.dll
+C:\Users\Navegador\Desktop\Proyecto DAS\Proyecto DAS\BE\obj\Debug\BE.pdb
+C:\Users\Santino\Desktop\Proyecto DAS\Proyecto DAS\BE\bin\Debug\BE.dll
+C:\Users\Santino\Desktop\Proyecto DAS\Proyecto DAS\BE\bin\Debug\BE.pdb
+C:\Users\Santino\Desktop\Proyecto DAS\Proyecto DAS\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+C:\Users\Santino\Desktop\Proyecto DAS\Proyecto DAS\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\Santino\Desktop\Proyecto DAS\Proyecto DAS\BE\obj\Debug\BE.dll
+C:\Users\Santino\Desktop\Proyecto DAS\Proyecto DAS\BE\obj\Debug\BE.pdb
+C:\Users\Santino\Desktop\Proyecto Sanaima\Proyecto DAS\BE\bin\Debug\BE.dll
+C:\Users\Santino\Desktop\Proyecto Sanaima\Proyecto DAS\BE\bin\Debug\BE.pdb
+C:\Users\Santino\Desktop\Proyecto Sanaima\Proyecto DAS\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+C:\Users\Santino\Desktop\Proyecto Sanaima\Proyecto DAS\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\Santino\Desktop\Proyecto Sanaima\Proyecto DAS\BE\obj\Debug\BE.dll
+C:\Users\Santino\Desktop\Proyecto Sanaima\Proyecto DAS\BE\obj\Debug\BE.pdb
+C:\Users\dpere\OneDrive\Escritorio\Proyecto Sanaima 2.1\Proyecto Sanaima\Proyecto DAS\BE\bin\Debug\BE.dll
+C:\Users\dpere\OneDrive\Escritorio\Proyecto Sanaima 2.1\Proyecto Sanaima\Proyecto DAS\BE\bin\Debug\BE.pdb
+C:\Users\dpere\OneDrive\Escritorio\Proyecto Sanaima 2.1\Proyecto Sanaima\Proyecto DAS\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+C:\Users\dpere\OneDrive\Escritorio\Proyecto Sanaima 2.1\Proyecto Sanaima\Proyecto DAS\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\dpere\OneDrive\Escritorio\Proyecto Sanaima 2.1\Proyecto Sanaima\Proyecto DAS\BE\obj\Debug\BE.dll
+C:\Users\dpere\OneDrive\Escritorio\Proyecto Sanaima 2.1\Proyecto Sanaima\Proyecto DAS\BE\obj\Debug\BE.pdb

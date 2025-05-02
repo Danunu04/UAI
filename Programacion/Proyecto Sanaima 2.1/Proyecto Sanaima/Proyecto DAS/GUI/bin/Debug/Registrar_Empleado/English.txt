@@ -1,0 +1,10 @@
+TagRegistrar;Register
+TagDocumento;Document
+TagApellido;Last Name
+TagNombre;First Name
+TagMail;Email
+TagFechaNacimeinto;Date of Birth
+TagContraseña;Password
+TagRol;Role
+TagIdioma;Language
+TagTipoRol;1 - Administrator | 2 - Super-Employee | 3 - Employee

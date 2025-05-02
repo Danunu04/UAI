@@ -1,0 +1,76 @@
+C:\Users\Santino\Desktop\Proyecto DAS\BLL\bin\Debug\BLL.dll
+C:\Users\Santino\Desktop\Proyecto DAS\BLL\bin\Debug\BLL.pdb
+C:\Users\Santino\Desktop\Proyecto DAS\BLL\bin\Debug\BE.dll
+C:\Users\Santino\Desktop\Proyecto DAS\BLL\bin\Debug\DAL.dll
+C:\Users\Santino\Desktop\Proyecto DAS\BLL\bin\Debug\BE.pdb
+C:\Users\Santino\Desktop\Proyecto DAS\BLL\bin\Debug\DAL.pdb
+C:\Users\Santino\Desktop\Proyecto DAS\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Santino\Desktop\Proyecto DAS\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Santino\Desktop\Proyecto DAS\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Santino\Desktop\Proyecto DAS\BLL\obj\Debug\BLL.dll
+C:\Users\Santino\Desktop\Proyecto DAS\BLL\obj\Debug\BLL.pdb
+C:\Users\Navegador\Desktop\Proyecto DAS\Proyecto DAS\BLL\bin\Debug\BLL.dll
+C:\Users\Navegador\Desktop\Proyecto DAS\Proyecto DAS\BLL\bin\Debug\BLL.pdb
+C:\Users\Navegador\Desktop\Proyecto DAS\Proyecto DAS\BLL\bin\Debug\BE.dll
+C:\Users\Navegador\Desktop\Proyecto DAS\Proyecto DAS\BLL\bin\Debug\DAL.dll
+C:\Users\Navegador\Desktop\Proyecto DAS\Proyecto DAS\BLL\bin\Debug\BE.pdb
+C:\Users\Navegador\Desktop\Proyecto DAS\Proyecto DAS\BLL\bin\Debug\DAL.pdb
+C:\Users\Navegador\Desktop\Proyecto DAS\Proyecto DAS\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Navegador\Desktop\Proyecto DAS\Proyecto DAS\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Navegador\Desktop\Proyecto DAS\Proyecto DAS\BLL\obj\Debug\BLL.csproj.Up2Date
+C:\Users\Navegador\Desktop\Proyecto DAS\Proyecto DAS\BLL\obj\Debug\BLL.dll
+C:\Users\Navegador\Desktop\Proyecto DAS\Proyecto DAS\BLL\obj\Debug\BLL.pdb
+C:\Users\Navegador\Desktop\Proyecto DAS\Proyecto DAS\BLL\bin\Debug\Servicios.dll
+C:\Users\Navegador\Desktop\Proyecto DAS\Proyecto DAS\BLL\bin\Debug\Servicios.pdb
+C:\Users\Santino\Desktop\Proyecto DAS\Proyecto DAS\BLL\bin\Debug\BLL.dll
+C:\Users\Santino\Desktop\Proyecto DAS\Proyecto DAS\BLL\bin\Debug\BLL.pdb
+C:\Users\Santino\Desktop\Proyecto DAS\Proyecto DAS\BLL\bin\Debug\BE.dll
+C:\Users\Santino\Desktop\Proyecto DAS\Proyecto DAS\BLL\bin\Debug\DAL.dll
+C:\Users\Santino\Desktop\Proyecto DAS\Proyecto DAS\BLL\bin\Debug\Servicios.dll
+C:\Users\Santino\Desktop\Proyecto DAS\Proyecto DAS\BLL\bin\Debug\BE.pdb
+C:\Users\Santino\Desktop\Proyecto DAS\Proyecto DAS\BLL\bin\Debug\DAL.pdb
+C:\Users\Santino\Desktop\Proyecto DAS\Proyecto DAS\BLL\bin\Debug\Servicios.pdb
+C:\Users\Santino\Desktop\Proyecto DAS\Proyecto DAS\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Santino\Desktop\Proyecto DAS\Proyecto DAS\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Santino\Desktop\Proyecto DAS\Proyecto DAS\BLL\obj\Debug\BLL.dll
+C:\Users\Santino\Desktop\Proyecto DAS\Proyecto DAS\BLL\obj\Debug\BLL.pdb
+C:\Users\Santino\Desktop\Proyecto DAS\Proyecto DAS\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Santino\Desktop\Proyecto Sanaima\Proyecto DAS\BLL\bin\Debug\BLL.dll
+C:\Users\Santino\Desktop\Proyecto Sanaima\Proyecto DAS\BLL\bin\Debug\BLL.pdb
+C:\Users\Santino\Desktop\Proyecto Sanaima\Proyecto DAS\BLL\bin\Debug\BE.dll
+C:\Users\Santino\Desktop\Proyecto Sanaima\Proyecto DAS\BLL\bin\Debug\DAL.dll
+C:\Users\Santino\Desktop\Proyecto Sanaima\Proyecto DAS\BLL\bin\Debug\Servicios.dll
+C:\Users\Santino\Desktop\Proyecto Sanaima\Proyecto DAS\BLL\bin\Debug\BE.pdb
+C:\Users\Santino\Desktop\Proyecto Sanaima\Proyecto DAS\BLL\bin\Debug\DAL.pdb
+C:\Users\Santino\Desktop\Proyecto Sanaima\Proyecto DAS\BLL\bin\Debug\Servicios.pdb
+C:\Users\Santino\Desktop\Proyecto Sanaima\Proyecto DAS\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Santino\Desktop\Proyecto Sanaima\Proyecto DAS\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Santino\Desktop\Proyecto Sanaima\Proyecto DAS\BLL\obj\Debug\BLL.dll
+C:\Users\Santino\Desktop\Proyecto Sanaima\Proyecto DAS\BLL\obj\Debug\BLL.pdb
+C:\Users\Santino\Desktop\Proyecto Sanaima\Proyecto DAS\BLL\obj\Debug\BLL.csproj.Up2Date
+C:\Users\Ailu\Desktop\Proyecto Sanaima\Proyecto DAS\BLL\bin\Debug\BLL.dll
+C:\Users\Ailu\Desktop\Proyecto Sanaima\Proyecto DAS\BLL\bin\Debug\BLL.pdb
+C:\Users\Ailu\Desktop\Proyecto Sanaima\Proyecto DAS\BLL\bin\Debug\BE.dll
+C:\Users\Ailu\Desktop\Proyecto Sanaima\Proyecto DAS\BLL\bin\Debug\DAL.dll
+C:\Users\Ailu\Desktop\Proyecto Sanaima\Proyecto DAS\BLL\bin\Debug\Servicios.dll
+C:\Users\Ailu\Desktop\Proyecto Sanaima\Proyecto DAS\BLL\bin\Debug\BE.pdb
+C:\Users\Ailu\Desktop\Proyecto Sanaima\Proyecto DAS\BLL\bin\Debug\DAL.pdb
+C:\Users\Ailu\Desktop\Proyecto Sanaima\Proyecto DAS\BLL\bin\Debug\Servicios.pdb
+C:\Users\Ailu\Desktop\Proyecto Sanaima\Proyecto DAS\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Ailu\Desktop\Proyecto Sanaima\Proyecto DAS\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Ailu\Desktop\Proyecto Sanaima\Proyecto DAS\BLL\obj\Debug\BLL.csproj.Up2Date
+C:\Users\Ailu\Desktop\Proyecto Sanaima\Proyecto DAS\BLL\obj\Debug\BLL.dll
+C:\Users\Ailu\Desktop\Proyecto Sanaima\Proyecto DAS\BLL\obj\Debug\BLL.pdb
+C:\Users\dpere\OneDrive\Escritorio\Proyecto Sanaima 2.1\Proyecto Sanaima\Proyecto DAS\BLL\bin\Debug\BLL.dll
+C:\Users\dpere\OneDrive\Escritorio\Proyecto Sanaima 2.1\Proyecto Sanaima\Proyecto DAS\BLL\bin\Debug\BLL.pdb
+C:\Users\dpere\OneDrive\Escritorio\Proyecto Sanaima 2.1\Proyecto Sanaima\Proyecto DAS\BLL\bin\Debug\BE.dll
+C:\Users\dpere\OneDrive\Escritorio\Proyecto Sanaima 2.1\Proyecto Sanaima\Proyecto DAS\BLL\bin\Debug\DAL.dll
+C:\Users\dpere\OneDrive\Escritorio\Proyecto Sanaima 2.1\Proyecto Sanaima\Proyecto DAS\BLL\bin\Debug\Servicios.dll
+C:\Users\dpere\OneDrive\Escritorio\Proyecto Sanaima 2.1\Proyecto Sanaima\Proyecto DAS\BLL\bin\Debug\BE.pdb
+C:\Users\dpere\OneDrive\Escritorio\Proyecto Sanaima 2.1\Proyecto Sanaima\Proyecto DAS\BLL\bin\Debug\DAL.pdb
+C:\Users\dpere\OneDrive\Escritorio\Proyecto Sanaima 2.1\Proyecto Sanaima\Proyecto DAS\BLL\bin\Debug\Servicios.pdb
+C:\Users\dpere\OneDrive\Escritorio\Proyecto Sanaima 2.1\Proyecto Sanaima\Proyecto DAS\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\dpere\OneDrive\Escritorio\Proyecto Sanaima 2.1\Proyecto Sanaima\Proyecto DAS\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\dpere\OneDrive\Escritorio\Proyecto Sanaima 2.1\Proyecto Sanaima\Proyecto DAS\BLL\obj\Debug\BLL.csproj.Up2Date
+C:\Users\dpere\OneDrive\Escritorio\Proyecto Sanaima 2.1\Proyecto Sanaima\Proyecto DAS\BLL\obj\Debug\BLL.dll
+C:\Users\dpere\OneDrive\Escritorio\Proyecto Sanaima 2.1\Proyecto Sanaima\Proyecto DAS\BLL\obj\Debug\BLL.pdb

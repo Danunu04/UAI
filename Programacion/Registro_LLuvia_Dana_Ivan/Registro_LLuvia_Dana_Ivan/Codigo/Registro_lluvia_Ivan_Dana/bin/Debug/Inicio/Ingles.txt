@@ -1,0 +1,16 @@
+Inicio=Main Form
+usuario=User
+Login=Log In
+cambiarclave=Change Password
+logout=Log Out
+salir=Exit
+admin=Administrator
+GestionUsuarios=User Management
+GestionPerfiles=Profile Management
+Bitacora=Event Log
+reportes=Reports
+verReportes=View Reports
+cargarReportes=Upload Reports
+idioma=Change Language
+Español=Spanish
+Ingles=English

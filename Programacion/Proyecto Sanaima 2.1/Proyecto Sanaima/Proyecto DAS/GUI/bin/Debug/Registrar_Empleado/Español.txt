@@ -1,0 +1,9 @@
+TagRegistrar;Registrar
+TagDocumento;Documento
+TagApellido;Apellido
+TagNombre;Nombre
+TagMail;Mail
+TagFechaNacimeinto;Fecha de nacimiento
+TagContraseña;Contraseña
+TagRol;Rol
+TagIdioma;Idioma

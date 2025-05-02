@@ -1,0 +1,7 @@
+TagSalir;Salir
+TagReportes;Reportes
+TagSesion;Sesión
+TagAdministracion;Administración
+TagRegistrarEmpleado;Registrar Empleado
+TagVerMovimientos;Ver Movimientos
+TagProductos;Productos

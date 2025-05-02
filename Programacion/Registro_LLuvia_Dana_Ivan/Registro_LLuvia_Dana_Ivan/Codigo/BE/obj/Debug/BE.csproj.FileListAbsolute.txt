@@ -1,0 +1,24 @@
+C:\Users\dpere\OneDrive\Escritorio\Registro_lluvia_Ivan_Dana\BE\bin\Debug\BE.dll
+C:\Users\dpere\OneDrive\Escritorio\Registro_lluvia_Ivan_Dana\BE\bin\Debug\BE.pdb
+C:\Users\dpere\OneDrive\Escritorio\Registro_lluvia_Ivan_Dana\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+C:\Users\dpere\OneDrive\Escritorio\Registro_lluvia_Ivan_Dana\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\dpere\OneDrive\Escritorio\Registro_lluvia_Ivan_Dana\BE\obj\Debug\BE.dll
+C:\Users\dpere\OneDrive\Escritorio\Registro_lluvia_Ivan_Dana\BE\obj\Debug\BE.pdb
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\BE\bin\Debug\BE.dll
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\BE\bin\Debug\BE.pdb
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\BE\obj\Debug\BE.dll
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\BE\obj\Debug\BE.pdb
+C:\Users\Ivan. A. Urso\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\BE\bin\Debug\BE.dll
+C:\Users\Ivan. A. Urso\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\BE\bin\Debug\BE.pdb
+C:\Users\Ivan. A. Urso\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+C:\Users\Ivan. A. Urso\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\Ivan. A. Urso\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\BE\obj\Debug\BE.dll
+C:\Users\Ivan. A. Urso\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\BE\obj\Debug\BE.pdb
+C:\Users\dpere\Escritorio\UAI\Programacion\Registro_LLuvia_Dana_Ivan\Registro_LLuvia_Dana_Ivan\Codigo\BE\bin\Debug\BE.dll
+C:\Users\dpere\Escritorio\UAI\Programacion\Registro_LLuvia_Dana_Ivan\Registro_LLuvia_Dana_Ivan\Codigo\BE\bin\Debug\BE.pdb
+C:\Users\dpere\Escritorio\UAI\Programacion\Registro_LLuvia_Dana_Ivan\Registro_LLuvia_Dana_Ivan\Codigo\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+C:\Users\dpere\Escritorio\UAI\Programacion\Registro_LLuvia_Dana_Ivan\Registro_LLuvia_Dana_Ivan\Codigo\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\dpere\Escritorio\UAI\Programacion\Registro_LLuvia_Dana_Ivan\Registro_LLuvia_Dana_Ivan\Codigo\BE\obj\Debug\BE.dll
+C:\Users\dpere\Escritorio\UAI\Programacion\Registro_LLuvia_Dana_Ivan\Registro_LLuvia_Dana_Ivan\Codigo\BE\obj\Debug\BE.pdb

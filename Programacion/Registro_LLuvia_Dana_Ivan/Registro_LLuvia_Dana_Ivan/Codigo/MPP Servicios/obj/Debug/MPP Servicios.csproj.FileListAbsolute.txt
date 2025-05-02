@@ -1,0 +1,18 @@
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Codigo\MPP Servicios\bin\Debug\MPP Servicios.dll
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Codigo\MPP Servicios\bin\Debug\MPP Servicios.pdb
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Codigo\MPP Servicios\bin\Debug\DAL servisios.dll
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Codigo\MPP Servicios\bin\Debug\DAL servisios.pdb
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Codigo\MPP Servicios\obj\Debug\MPP Servicios.csproj.AssemblyReference.cache
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Codigo\MPP Servicios\obj\Debug\MPP Servicios.csproj.CoreCompileInputs.cache
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Codigo\MPP Servicios\obj\Debug\MPP Serv.CB116D2A.Up2Date
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Codigo\MPP Servicios\obj\Debug\MPP Servicios.dll
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Codigo\MPP Servicios\obj\Debug\MPP Servicios.pdb
+C:\Users\dpere\Escritorio\UAI\Programacion\Registro_LLuvia_Dana_Ivan\Registro_LLuvia_Dana_Ivan\Codigo\MPP Servicios\bin\Debug\MPP Servicios.dll
+C:\Users\dpere\Escritorio\UAI\Programacion\Registro_LLuvia_Dana_Ivan\Registro_LLuvia_Dana_Ivan\Codigo\MPP Servicios\bin\Debug\MPP Servicios.pdb
+C:\Users\dpere\Escritorio\UAI\Programacion\Registro_LLuvia_Dana_Ivan\Registro_LLuvia_Dana_Ivan\Codigo\MPP Servicios\bin\Debug\DAL servisios.dll
+C:\Users\dpere\Escritorio\UAI\Programacion\Registro_LLuvia_Dana_Ivan\Registro_LLuvia_Dana_Ivan\Codigo\MPP Servicios\bin\Debug\DAL servisios.pdb
+C:\Users\dpere\Escritorio\UAI\Programacion\Registro_LLuvia_Dana_Ivan\Registro_LLuvia_Dana_Ivan\Codigo\MPP Servicios\obj\Debug\MPP Servicios.csproj.AssemblyReference.cache
+C:\Users\dpere\Escritorio\UAI\Programacion\Registro_LLuvia_Dana_Ivan\Registro_LLuvia_Dana_Ivan\Codigo\MPP Servicios\obj\Debug\MPP Servicios.csproj.CoreCompileInputs.cache
+C:\Users\dpere\Escritorio\UAI\Programacion\Registro_LLuvia_Dana_Ivan\Registro_LLuvia_Dana_Ivan\Codigo\MPP Servicios\obj\Debug\MPP Serv.CB116D2A.Up2Date
+C:\Users\dpere\Escritorio\UAI\Programacion\Registro_LLuvia_Dana_Ivan\Registro_LLuvia_Dana_Ivan\Codigo\MPP Servicios\obj\Debug\MPP Servicios.dll
+C:\Users\dpere\Escritorio\UAI\Programacion\Registro_LLuvia_Dana_Ivan\Registro_LLuvia_Dana_Ivan\Codigo\MPP Servicios\obj\Debug\MPP Servicios.pdb

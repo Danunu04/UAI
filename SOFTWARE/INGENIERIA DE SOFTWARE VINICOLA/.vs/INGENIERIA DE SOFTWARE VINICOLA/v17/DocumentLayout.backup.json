@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dpere\\OneDrive\\Escritorio\\SOFTWARE\\INGENIERIA DE SOFTWARE VINICOLA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2DA9AC8-5FCD-4205-9065-C702AF7CF684}|INGENIERIA DE SOFTWARE VINICOLA\\UI.csproj|C:\\Users\\dpere\\OneDrive\\Escritorio\\SOFTWARE\\INGENIERIA DE SOFTWARE VINICOLA\\ingenieria de software vinicola\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2DA9AC8-5FCD-4205-9065-C702AF7CF684}|INGENIERIA DE SOFTWARE VINICOLA\\UI.csproj|solutionrelative:ingenieria de software vinicola\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2DA9AC8-5FCD-4205-9065-C702AF7CF684}|INGENIERIA DE SOFTWARE VINICOLA\\UI.csproj|C:\\Users\\dpere\\OneDrive\\Escritorio\\SOFTWARE\\INGENIERIA DE SOFTWARE VINICOLA\\ingenieria de software vinicola\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E2DA9AC8-5FCD-4205-9065-C702AF7CF684}|INGENIERIA DE SOFTWARE VINICOLA\\UI.csproj|solutionrelative:ingenieria de software vinicola\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E57850-6471-481E-B14B-C11500843EC7}|SERVICIOS\\SERVICIOS.csproj|c:\\users\\dpere\\onedrive\\escritorio\\software\\ingenieria de software vinicola\\servicios\\languagemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16E57850-6471-481E-B14B-C11500843EC7}|SERVICIOS\\SERVICIOS.csproj|solutionrelative:servicios\\languagemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F55054-75F0-416A-B73A-05376B49D2D9}|BLL\\BLL.csproj|C:\\Users\\dpere\\OneDrive\\Escritorio\\SOFTWARE\\INGENIERIA DE SOFTWARE VINICOLA\\bll\\bllevento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96F55054-75F0-416A-B73A-05376B49D2D9}|BLL\\BLL.csproj|solutionrelative:bll\\bllevento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E57850-6471-481E-B14B-C11500843EC7}|SERVICIOS\\SERVICIOS.csproj|C:\\Users\\dpere\\OneDrive\\Escritorio\\SOFTWARE\\INGENIERIA DE SOFTWARE VINICOLA\\servicios\\sessionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16E57850-6471-481E-B14B-C11500843EC7}|SERVICIOS\\SERVICIOS.csproj|solutionrelative:servicios\\sessionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E57850-6471-481E-B14B-C11500843EC7}|SERVICIOS\\SERVICIOS.csproj|C:\\Users\\dpere\\OneDrive\\Escritorio\\SOFTWARE\\INGENIERIA DE SOFTWARE VINICOLA\\servicios\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16E57850-6471-481E-B14B-C11500843EC7}|SERVICIOS\\SERVICIOS.csproj|solutionrelative:servicios\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2DA9AC8-5FCD-4205-9065-C702AF7CF684}|INGENIERIA DE SOFTWARE VINICOLA\\UI.csproj|C:\\Users\\dpere\\OneDrive\\Escritorio\\SOFTWARE\\INGENIERIA DE SOFTWARE VINICOLA\\ingenieria de software vinicola\\frminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E2DA9AC8-5FCD-4205-9065-C702AF7CF684}|INGENIERIA DE SOFTWARE VINICOLA\\UI.csproj|solutionrelative:ingenieria de software vinicola\\frminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LanguageManager.cs",
+              "DocumentMoniker": "C:\\Users\\dpere\\OneDrive\\Escritorio\\SOFTWARE\\INGENIERIA DE SOFTWARE VINICOLA\\SERVICIOS\\LanguageManager.cs",
+              "RelativeDocumentMoniker": "SERVICIOS\\LanguageManager.cs",
+              "ToolTip": "C:\\Users\\dpere\\OneDrive\\Escritorio\\SOFTWARE\\INGENIERIA DE SOFTWARE VINICOLA\\SERVICIOS\\LanguageManager.cs",
+              "RelativeToolTip": "SERVICIOS\\LanguageManager.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAkwEgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T23:04:54.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SessionManager.cs",
+              "DocumentMoniker": "C:\\Users\\dpere\\OneDrive\\Escritorio\\SOFTWARE\\INGENIERIA DE SOFTWARE VINICOLA\\SERVICIOS\\SessionManager.cs",
+              "RelativeDocumentMoniker": "SERVICIOS\\SessionManager.cs",
+              "ToolTip": "C:\\Users\\dpere\\OneDrive\\Escritorio\\SOFTWARE\\INGENIERIA DE SOFTWARE VINICOLA\\SERVICIOS\\SessionManager.cs",
+              "RelativeToolTip": "SERVICIOS\\SessionManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T00:03:57.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dpere\\OneDrive\\Escritorio\\SOFTWARE\\INGENIERIA DE SOFTWARE VINICOLA\\INGENIERIA DE SOFTWARE VINICOLA\\Login.cs",
+              "RelativeDocumentMoniker": "INGENIERIA DE SOFTWARE VINICOLA\\Login.cs",
+              "ToolTip": "C:\\Users\\dpere\\OneDrive\\Escritorio\\SOFTWARE\\INGENIERIA DE SOFTWARE VINICOLA\\INGENIERIA DE SOFTWARE VINICOLA\\Login.cs [Design]",
+              "RelativeToolTip": "INGENIERIA DE SOFTWARE VINICOLA\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T23:46:31.397Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\dpere\\OneDrive\\Escritorio\\SOFTWARE\\INGENIERIA DE SOFTWARE VINICOLA\\INGENIERIA DE SOFTWARE VINICOLA\\Login.cs",
+              "RelativeDocumentMoniker": "INGENIERIA DE SOFTWARE VINICOLA\\Login.cs",
+              "ToolTip": "C:\\Users\\dpere\\OneDrive\\Escritorio\\SOFTWARE\\INGENIERIA DE SOFTWARE VINICOLA\\INGENIERIA DE SOFTWARE VINICOLA\\Login.cs",
+              "RelativeToolTip": "INGENIERIA DE SOFTWARE VINICOLA\\Login.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAQwGUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T13:32:53.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BLLEvento.cs",
+              "DocumentMoniker": "C:\\Users\\dpere\\OneDrive\\Escritorio\\SOFTWARE\\INGENIERIA DE SOFTWARE VINICOLA\\BLL\\BLLEvento.cs",
+              "RelativeDocumentMoniker": "BLL\\BLLEvento.cs",
+              "ToolTip": "C:\\Users\\dpere\\OneDrive\\Escritorio\\SOFTWARE\\INGENIERIA DE SOFTWARE VINICOLA\\BLL\\BLLEvento.cs",
+              "RelativeToolTip": "BLL\\BLLEvento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T13:19:22.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Evento.cs",
+              "DocumentMoniker": "C:\\Users\\dpere\\OneDrive\\Escritorio\\SOFTWARE\\INGENIERIA DE SOFTWARE VINICOLA\\SERVICIOS\\Evento.cs",
+              "RelativeDocumentMoniker": "SERVICIOS\\Evento.cs",
+              "ToolTip": "C:\\Users\\dpere\\OneDrive\\Escritorio\\SOFTWARE\\INGENIERIA DE SOFTWARE VINICOLA\\SERVICIOS\\Evento.cs",
+              "RelativeToolTip": "SERVICIOS\\Evento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T00:07:10.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmInicio.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dpere\\OneDrive\\Escritorio\\SOFTWARE\\INGENIERIA DE SOFTWARE VINICOLA\\INGENIERIA DE SOFTWARE VINICOLA\\frmInicio.cs",
+              "RelativeDocumentMoniker": "INGENIERIA DE SOFTWARE VINICOLA\\frmInicio.cs",
+              "ToolTip": "C:\\Users\\dpere\\OneDrive\\Escritorio\\SOFTWARE\\INGENIERIA DE SOFTWARE VINICOLA\\INGENIERIA DE SOFTWARE VINICOLA\\frmInicio.cs [Design]",
+              "RelativeToolTip": "INGENIERIA DE SOFTWARE VINICOLA\\frmInicio.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T23:46:22.23Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

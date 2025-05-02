@@ -1,0 +1,284 @@
+C:\Users\dpere\OneDrive\Escritorio\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\SERVICIOS.dll
+C:\Users\dpere\OneDrive\Escritorio\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\SERVICIOS.pdb
+C:\Users\dpere\OneDrive\Escritorio\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\BE.dll
+C:\Users\dpere\OneDrive\Escritorio\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\BE.pdb
+C:\Users\dpere\OneDrive\Escritorio\Registro_lluvia_Ivan_Dana\SERVICIOS\obj\Debug\SERVICIOS.csproj.AssemblyReference.cache
+C:\Users\dpere\OneDrive\Escritorio\Registro_lluvia_Ivan_Dana\SERVICIOS\obj\Debug\SERVICIOS.csproj.CoreCompileInputs.cache
+C:\Users\dpere\OneDrive\Escritorio\Registro_lluvia_Ivan_Dana\SERVICIOS\obj\Debug\SERVICIOS.csproj.Up2Date
+C:\Users\dpere\OneDrive\Escritorio\Registro_lluvia_Ivan_Dana\SERVICIOS\obj\Debug\SERVICIOS.dll
+C:\Users\dpere\OneDrive\Escritorio\Registro_lluvia_Ivan_Dana\SERVICIOS\obj\Debug\SERVICIOS.pdb
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\SERVICIOS.dll
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\SERVICIOS.pdb
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\BE.dll
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\BE.pdb
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\obj\Debug\SERVICIOS.csproj.AssemblyReference.cache
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\obj\Debug\SERVICIOS.csproj.CoreCompileInputs.cache
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\obj\Debug\SERVICIOS.csproj.Up2Date
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\obj\Debug\SERVICIOS.dll
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\obj\Debug\SERVICIOS.pdb
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\System.Text.Json.dll
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\System.Memory.dll
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\System.ValueTuple.dll
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\System.Buffers.dll
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\SERVICIOS.dll.config
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\itext.barcodes.dll
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\itext.bouncy-castle-connector.dll
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\itext.commons.dll
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\itext.forms.dll
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\itext.io.dll
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\itext.kernel.dll
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\itext.layout.dll
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\itext.pdfa.dll
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\itext.pdfua.dll
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\itext.sign.dll
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\itext.styledxmlparser.dll
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\itext.svg.dll
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\System.Drawing.Common.dll
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\itext.barcodes.xml
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\itext.bouncy-castle-connector.xml
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\itext.commons.xml
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\itext.forms.xml
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\itext.io.xml
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\itext.kernel.xml
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\itext.layout.xml
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\itext.pdfa.xml
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\itext.pdfua.xml
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\itext.sign.xml
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\itext.styledxmlparser.xml
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\itext.svg.xml
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\System.Buffers.xml
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\System.Memory.xml
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\System.ValueTuple.xml
+C:\Users\Ivan. A. Urso\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\SERVICIOS.dll.config
+C:\Users\Ivan. A. Urso\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\SERVICIOS.dll
+C:\Users\Ivan. A. Urso\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\SERVICIOS.pdb
+C:\Users\Ivan. A. Urso\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\BE.dll
+C:\Users\Ivan. A. Urso\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\itext.barcodes.dll
+C:\Users\Ivan. A. Urso\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\itext.bouncy-castle-connector.dll
+C:\Users\Ivan. A. Urso\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\itext.commons.dll
+C:\Users\Ivan. A. Urso\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\itext.forms.dll
+C:\Users\Ivan. A. Urso\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\itext.io.dll
+C:\Users\Ivan. A. Urso\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\itext.kernel.dll
+C:\Users\Ivan. A. Urso\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\itext.layout.dll
+C:\Users\Ivan. A. Urso\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\itext.pdfa.dll
+C:\Users\Ivan. A. Urso\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\itext.pdfua.dll
+C:\Users\Ivan. A. Urso\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\itext.sign.dll
+C:\Users\Ivan. A. Urso\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\itext.styledxmlparser.dll
+C:\Users\Ivan. A. Urso\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\itext.svg.dll
+C:\Users\Ivan. A. Urso\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ivan. A. Urso\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ivan. A. Urso\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ivan. A. Urso\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ivan. A. Urso\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Ivan. A. Urso\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Ivan. A. Urso\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Ivan. A. Urso\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ivan. A. Urso\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\System.Buffers.dll
+C:\Users\Ivan. A. Urso\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ivan. A. Urso\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\System.Drawing.Common.dll
+C:\Users\Ivan. A. Urso\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\System.Memory.dll
+C:\Users\Ivan. A. Urso\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Ivan. A. Urso\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ivan. A. Urso\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\System.Text.Json.dll
+C:\Users\Ivan. A. Urso\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Ivan. A. Urso\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\System.ValueTuple.dll
+C:\Users\Ivan. A. Urso\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Ivan. A. Urso\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\BE.pdb
+C:\Users\Ivan. A. Urso\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\itext.barcodes.xml
+C:\Users\Ivan. A. Urso\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\itext.bouncy-castle-connector.xml
+C:\Users\Ivan. A. Urso\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\itext.commons.xml
+C:\Users\Ivan. A. Urso\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\itext.forms.xml
+C:\Users\Ivan. A. Urso\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\itext.io.xml
+C:\Users\Ivan. A. Urso\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\itext.kernel.xml
+C:\Users\Ivan. A. Urso\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\itext.layout.xml
+C:\Users\Ivan. A. Urso\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\itext.pdfa.xml
+C:\Users\Ivan. A. Urso\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\itext.pdfua.xml
+C:\Users\Ivan. A. Urso\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\itext.sign.xml
+C:\Users\Ivan. A. Urso\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\itext.styledxmlparser.xml
+C:\Users\Ivan. A. Urso\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\itext.svg.xml
+C:\Users\Ivan. A. Urso\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Ivan. A. Urso\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Ivan. A. Urso\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Ivan. A. Urso\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Ivan. A. Urso\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Ivan. A. Urso\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Ivan. A. Urso\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Ivan. A. Urso\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ivan. A. Urso\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\System.Buffers.xml
+C:\Users\Ivan. A. Urso\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Ivan. A. Urso\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\System.Memory.xml
+C:\Users\Ivan. A. Urso\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Ivan. A. Urso\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ivan. A. Urso\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Ivan. A. Urso\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\bin\Debug\System.ValueTuple.xml
+C:\Users\Ivan. A. Urso\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\obj\Debug\SERVICIOS.csproj.AssemblyReference.cache
+C:\Users\Ivan. A. Urso\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\obj\Debug\SERVICIOS.csproj.CoreCompileInputs.cache
+C:\Users\Ivan. A. Urso\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\obj\Debug\SERVICIOS.csproj.Up2Date
+C:\Users\Ivan. A. Urso\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\obj\Debug\SERVICIOS.dll
+C:\Users\Ivan. A. Urso\Desktop\Registro_LLuvia_Dana_Ivan\Registro_lluvia_Ivan_Dana\SERVICIOS\obj\Debug\SERVICIOS.pdb
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\SERVICIOS.dll.config
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\SERVICIOS.dll
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\SERVICIOS.pdb
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\BE.dll
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\itext.barcodes.dll
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\itext.bouncy-castle-connector.dll
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\itext.commons.dll
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\itext.forms.dll
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\itext.io.dll
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\itext.kernel.dll
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\itext.layout.dll
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\itext.pdfa.dll
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\itext.pdfua.dll
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\itext.sign.dll
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\itext.styledxmlparser.dll
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\itext.svg.dll
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\System.Buffers.dll
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\System.Drawing.Common.dll
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\System.Memory.dll
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\System.Text.Json.dll
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\System.ValueTuple.dll
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\BE.pdb
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\itext.barcodes.xml
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\itext.bouncy-castle-connector.xml
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\itext.commons.xml
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\itext.forms.xml
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\itext.io.xml
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\itext.kernel.xml
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\itext.layout.xml
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\itext.pdfa.xml
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\itext.pdfua.xml
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\itext.sign.xml
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\itext.styledxmlparser.xml
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\itext.svg.xml
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\System.Buffers.xml
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\System.Memory.xml
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\System.ValueTuple.xml
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\obj\Debug\SERVICIOS.csproj.AssemblyReference.cache
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\obj\Debug\SERVICIOS.csproj.CoreCompileInputs.cache
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\obj\Debug\SERVICIOS.csproj.Up2Date
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\obj\Debug\SERVICIOS.dll
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\obj\Debug\SERVICIOS.pdb
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\DAL servisios.dll
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\MPP Servicios.dll
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\DAL servisios.pdb
+C:\Users\Dana Perelmuter\Desktop\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\MPP Servicios.pdb
+C:\Users\dpere\Escritorio\UAI\Programacion\Registro_LLuvia_Dana_Ivan\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\SERVICIOS.dll.config
+C:\Users\dpere\Escritorio\UAI\Programacion\Registro_LLuvia_Dana_Ivan\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\SERVICIOS.dll
+C:\Users\dpere\Escritorio\UAI\Programacion\Registro_LLuvia_Dana_Ivan\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\SERVICIOS.pdb
+C:\Users\dpere\Escritorio\UAI\Programacion\Registro_LLuvia_Dana_Ivan\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\BE.dll
+C:\Users\dpere\Escritorio\UAI\Programacion\Registro_LLuvia_Dana_Ivan\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\DAL servisios.dll
+C:\Users\dpere\Escritorio\UAI\Programacion\Registro_LLuvia_Dana_Ivan\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\itext.barcodes.dll
+C:\Users\dpere\Escritorio\UAI\Programacion\Registro_LLuvia_Dana_Ivan\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\itext.bouncy-castle-connector.dll
+C:\Users\dpere\Escritorio\UAI\Programacion\Registro_LLuvia_Dana_Ivan\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\itext.commons.dll
+C:\Users\dpere\Escritorio\UAI\Programacion\Registro_LLuvia_Dana_Ivan\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\itext.forms.dll
+C:\Users\dpere\Escritorio\UAI\Programacion\Registro_LLuvia_Dana_Ivan\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\itext.io.dll
+C:\Users\dpere\Escritorio\UAI\Programacion\Registro_LLuvia_Dana_Ivan\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\itext.kernel.dll
+C:\Users\dpere\Escritorio\UAI\Programacion\Registro_LLuvia_Dana_Ivan\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\itext.layout.dll
+C:\Users\dpere\Escritorio\UAI\Programacion\Registro_LLuvia_Dana_Ivan\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\itext.pdfa.dll
+C:\Users\dpere\Escritorio\UAI\Programacion\Registro_LLuvia_Dana_Ivan\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\itext.pdfua.dll
+C:\Users\dpere\Escritorio\UAI\Programacion\Registro_LLuvia_Dana_Ivan\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\itext.sign.dll
+C:\Users\dpere\Escritorio\UAI\Programacion\Registro_LLuvia_Dana_Ivan\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\itext.styledxmlparser.dll
+C:\Users\dpere\Escritorio\UAI\Programacion\Registro_LLuvia_Dana_Ivan\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\itext.svg.dll
+C:\Users\dpere\Escritorio\UAI\Programacion\Registro_LLuvia_Dana_Ivan\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dpere\Escritorio\UAI\Programacion\Registro_LLuvia_Dana_Ivan\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\dpere\Escritorio\UAI\Programacion\Registro_LLuvia_Dana_Ivan\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\dpere\Escritorio\UAI\Programacion\Registro_LLuvia_Dana_Ivan\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\dpere\Escritorio\UAI\Programacion\Registro_LLuvia_Dana_Ivan\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\dpere\Escritorio\UAI\Programacion\Registro_LLuvia_Dana_Ivan\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\dpere\Escritorio\UAI\Programacion\Registro_LLuvia_Dana_Ivan\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\dpere\Escritorio\UAI\Programacion\Registro_LLuvia_Dana_Ivan\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\MPP Servicios.dll
+C:\Users\dpere\Escritorio\UAI\Programacion\Registro_LLuvia_Dana_Ivan\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dpere\Escritorio\UAI\Programacion\Registro_LLuvia_Dana_Ivan\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\System.Buffers.dll
+C:\Users\dpere\Escritorio\UAI\Programacion\Registro_LLuvia_Dana_Ivan\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dpere\Escritorio\UAI\Programacion\Registro_LLuvia_Dana_Ivan\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\System.Drawing.Common.dll
+C:\Users\dpere\Escritorio\UAI\Programacion\Registro_LLuvia_Dana_Ivan\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\System.Memory.dll
+C:\Users\dpere\Escritorio\UAI\Programacion\Registro_LLuvia_Dana_Ivan\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\dpere\Escritorio\UAI\Programacion\Registro_LLuvia_Dana_Ivan\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dpere\Escritorio\UAI\Programacion\Registro_LLuvia_Dana_Ivan\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\dpere\Escritorio\UAI\Programacion\Registro_LLuvia_Dana_Ivan\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\System.ValueTuple.dll
+C:\Users\dpere\Escritorio\UAI\Programacion\Registro_LLuvia_Dana_Ivan\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\dpere\Escritorio\UAI\Programacion\Registro_LLuvia_Dana_Ivan\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\BE.pdb
+C:\Users\dpere\Escritorio\UAI\Programacion\Registro_LLuvia_Dana_Ivan\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\DAL servisios.pdb
+C:\Users\dpere\Escritorio\UAI\Programacion\Registro_LLuvia_Dana_Ivan\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\MPP Servicios.pdb
+C:\Users\dpere\Escritorio\UAI\Programacion\Registro_LLuvia_Dana_Ivan\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\itext.barcodes.xml
+C:\Users\dpere\Escritorio\UAI\Programacion\Registro_LLuvia_Dana_Ivan\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\itext.bouncy-castle-connector.xml
+C:\Users\dpere\Escritorio\UAI\Programacion\Registro_LLuvia_Dana_Ivan\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\itext.commons.xml
+C:\Users\dpere\Escritorio\UAI\Programacion\Registro_LLuvia_Dana_Ivan\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\itext.forms.xml
+C:\Users\dpere\Escritorio\UAI\Programacion\Registro_LLuvia_Dana_Ivan\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\itext.io.xml
+C:\Users\dpere\Escritorio\UAI\Programacion\Registro_LLuvia_Dana_Ivan\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\itext.kernel.xml
+C:\Users\dpere\Escritorio\UAI\Programacion\Registro_LLuvia_Dana_Ivan\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\itext.layout.xml
+C:\Users\dpere\Escritorio\UAI\Programacion\Registro_LLuvia_Dana_Ivan\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\itext.pdfa.xml
+C:\Users\dpere\Escritorio\UAI\Programacion\Registro_LLuvia_Dana_Ivan\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\itext.pdfua.xml
+C:\Users\dpere\Escritorio\UAI\Programacion\Registro_LLuvia_Dana_Ivan\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\itext.sign.xml
+C:\Users\dpere\Escritorio\UAI\Programacion\Registro_LLuvia_Dana_Ivan\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\itext.styledxmlparser.xml
+C:\Users\dpere\Escritorio\UAI\Programacion\Registro_LLuvia_Dana_Ivan\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\itext.svg.xml
+C:\Users\dpere\Escritorio\UAI\Programacion\Registro_LLuvia_Dana_Ivan\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\dpere\Escritorio\UAI\Programacion\Registro_LLuvia_Dana_Ivan\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\dpere\Escritorio\UAI\Programacion\Registro_LLuvia_Dana_Ivan\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\dpere\Escritorio\UAI\Programacion\Registro_LLuvia_Dana_Ivan\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\dpere\Escritorio\UAI\Programacion\Registro_LLuvia_Dana_Ivan\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\dpere\Escritorio\UAI\Programacion\Registro_LLuvia_Dana_Ivan\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\dpere\Escritorio\UAI\Programacion\Registro_LLuvia_Dana_Ivan\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\dpere\Escritorio\UAI\Programacion\Registro_LLuvia_Dana_Ivan\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dpere\Escritorio\UAI\Programacion\Registro_LLuvia_Dana_Ivan\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\System.Buffers.xml
+C:\Users\dpere\Escritorio\UAI\Programacion\Registro_LLuvia_Dana_Ivan\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\dpere\Escritorio\UAI\Programacion\Registro_LLuvia_Dana_Ivan\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\System.Memory.xml
+C:\Users\dpere\Escritorio\UAI\Programacion\Registro_LLuvia_Dana_Ivan\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\dpere\Escritorio\UAI\Programacion\Registro_LLuvia_Dana_Ivan\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\dpere\Escritorio\UAI\Programacion\Registro_LLuvia_Dana_Ivan\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\dpere\Escritorio\UAI\Programacion\Registro_LLuvia_Dana_Ivan\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\bin\Debug\System.ValueTuple.xml
+C:\Users\dpere\Escritorio\UAI\Programacion\Registro_LLuvia_Dana_Ivan\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\obj\Debug\SERVICIOS.csproj.AssemblyReference.cache
+C:\Users\dpere\Escritorio\UAI\Programacion\Registro_LLuvia_Dana_Ivan\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\obj\Debug\SERVICIOS.csproj.CoreCompileInputs.cache
+C:\Users\dpere\Escritorio\UAI\Programacion\Registro_LLuvia_Dana_Ivan\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\obj\Debug\SERVICIOS.csproj.Up2Date
+C:\Users\dpere\Escritorio\UAI\Programacion\Registro_LLuvia_Dana_Ivan\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\obj\Debug\SERVICIOS.dll
+C:\Users\dpere\Escritorio\UAI\Programacion\Registro_LLuvia_Dana_Ivan\Registro_LLuvia_Dana_Ivan\Codigo\SERVICIOS\obj\Debug\SERVICIOS.pdb

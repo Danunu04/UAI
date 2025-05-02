@@ -1,0 +1,218 @@
+USE [master]
+GO
+CREATE DATABASE [Productos_Defectuosos] 
+ALTER DATABASE [Productos_Defectuosos] SET COMPATIBILITY_LEVEL = 160
+GO
+IF (1 = FULLTEXTSERVICEPROPERTY('IsFullTextInstalled'))
+begin
+EXEC [Productos_Defectuosos].[dbo].[sp_fulltext_database] @action = 'enable'
+end
+GO
+ALTER DATABASE [Productos_Defectuosos] SET ANSI_NULL_DEFAULT OFF 
+GO
+ALTER DATABASE [Productos_Defectuosos] SET ANSI_NULLS OFF 
+GO
+ALTER DATABASE [Productos_Defectuosos] SET ANSI_PADDING OFF 
+GO
+ALTER DATABASE [Productos_Defectuosos] SET ANSI_WARNINGS OFF 
+GO
+ALTER DATABASE [Productos_Defectuosos] SET ARITHABORT OFF 
+GO
+ALTER DATABASE [Productos_Defectuosos] SET AUTO_CLOSE OFF 
+GO
+ALTER DATABASE [Productos_Defectuosos] SET AUTO_SHRINK OFF 
+GO
+ALTER DATABASE [Productos_Defectuosos] SET AUTO_UPDATE_STATISTICS ON 
+GO
+ALTER DATABASE [Productos_Defectuosos] SET CURSOR_CLOSE_ON_COMMIT OFF 
+GO
+ALTER DATABASE [Productos_Defectuosos] SET CURSOR_DEFAULT  GLOBAL 
+GO
+ALTER DATABASE [Productos_Defectuosos] SET CONCAT_NULL_YIELDS_NULL OFF 
+GO
+ALTER DATABASE [Productos_Defectuosos] SET NUMERIC_ROUNDABORT OFF 
+GO
+ALTER DATABASE [Productos_Defectuosos] SET QUOTED_IDENTIFIER OFF 
+GO
+ALTER DATABASE [Productos_Defectuosos] SET RECURSIVE_TRIGGERS OFF 
+GO
+ALTER DATABASE [Productos_Defectuosos] SET  DISABLE_BROKER 
+GO
+ALTER DATABASE [Productos_Defectuosos] SET AUTO_UPDATE_STATISTICS_ASYNC OFF 
+GO
+ALTER DATABASE [Productos_Defectuosos] SET DATE_CORRELATION_OPTIMIZATION OFF 
+GO
+ALTER DATABASE [Productos_Defectuosos] SET TRUSTWORTHY OFF 
+GO
+ALTER DATABASE [Productos_Defectuosos] SET ALLOW_SNAPSHOT_ISOLATION OFF 
+GO
+ALTER DATABASE [Productos_Defectuosos] SET PARAMETERIZATION SIMPLE 
+GO
+ALTER DATABASE [Productos_Defectuosos] SET READ_COMMITTED_SNAPSHOT OFF 
+GO
+ALTER DATABASE [Productos_Defectuosos] SET HONOR_BROKER_PRIORITY OFF 
+GO
+ALTER DATABASE [Productos_Defectuosos] SET RECOVERY SIMPLE 
+GO
+ALTER DATABASE [Productos_Defectuosos] SET  MULTI_USER 
+GO
+ALTER DATABASE [Productos_Defectuosos] SET PAGE_VERIFY CHECKSUM  
+GO
+ALTER DATABASE [Productos_Defectuosos] SET DB_CHAINING OFF 
+GO
+ALTER DATABASE [Productos_Defectuosos] SET FILESTREAM( NON_TRANSACTED_ACCESS = OFF ) 
+GO
+ALTER DATABASE [Productos_Defectuosos] SET TARGET_RECOVERY_TIME = 60 SECONDS 
+GO
+ALTER DATABASE [Productos_Defectuosos] SET DELAYED_DURABILITY = DISABLED 
+GO
+ALTER DATABASE [Productos_Defectuosos] SET ACCELERATED_DATABASE_RECOVERY = OFF  
+GO
+ALTER DATABASE [Productos_Defectuosos] SET QUERY_STORE = ON
+GO
+ALTER DATABASE [Productos_Defectuosos] SET QUERY_STORE (OPERATION_MODE = READ_WRITE, CLEANUP_POLICY = (STALE_QUERY_THRESHOLD_DAYS = 30), DATA_FLUSH_INTERVAL_SECONDS = 900, INTERVAL_LENGTH_MINUTES = 60, MAX_STORAGE_SIZE_MB = 1000, QUERY_CAPTURE_MODE = AUTO, SIZE_BASED_CLEANUP_MODE = AUTO, MAX_PLANS_PER_QUERY = 200, WAIT_STATS_CAPTURE_MODE = ON)
+GO
+USE [Productos_Defectuosos]
+GO
+/****** Object:  Table [dbo].[Familias]    Script Date: 26/9/2024 12:09:14 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[Familias](
+	[Codigo] [int] NOT NULL,
+	[Descripcion] [nvarchar](50) NOT NULL,
+ CONSTRAINT [PK_Familias] PRIMARY KEY CLUSTERED 
+(
+	[Codigo] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+/****** Object:  Table [dbo].[FamiliaXPatente]    Script Date: 26/9/2024 12:09:14 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[FamiliaXPatente](
+	[Codigo_Familia] [int] NOT NULL,
+	[Codigo_Patente] [int] NOT NULL
+) ON [PRIMARY]
+GO
+/****** Object:  Table [dbo].[Patentes]    Script Date: 26/9/2024 12:09:14 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[Patentes](
+	[Codigo] [int] NOT NULL,
+	[Funcion] [nvarchar](50) NOT NULL,
+ CONSTRAINT [PK_Patentes] PRIMARY KEY CLUSTERED 
+(
+	[Codigo] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+/****** Object:  Table [dbo].[PermisoXPermiso]    Script Date: 26/9/2024 12:09:14 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[PermisoXPermiso](
+	[Codigo_Usuario] [int] NOT NULL,
+	[Rol_Asignado] [nvarchar](50) NOT NULL,
+	[Patente_Asignado] [int] NOT NULL
+) ON [PRIMARY]
+GO
+/****** Object:  Table [dbo].[Productos]    Script Date: 26/9/2024 12:09:14 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[Productos](
+	[Codigo] [int] NOT NULL,
+	[Responsable] [int] NOT NULL,
+	[Nombre] [nvarchar](50) NOT NULL,
+	[Costo] [float] NOT NULL,
+	[Gasto_Previo] [float] NOT NULL,
+	[Estado] [nvarchar](50) NOT NULL
+) ON [PRIMARY]
+GO
+/****** Object:  Table [dbo].[Usuarios]    Script Date: 26/9/2024 12:09:14 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[Usuarios](
+	[Documento] [int] NOT NULL,
+	[Nombre] [nvarchar](50) NOT NULL,
+	[Apellido] [nvarchar](50) NOT NULL,
+	[Fec_Nac] [datetime] NOT NULL,
+	[Mail] [nvarchar](50) NOT NULL,
+	[Contrasenia] [nvarchar](50) NOT NULL,
+	[Rol] [nvarchar](50) NOT NULL,
+	[Idioma] [nvarchar](50) NOT NULL,
+	[Estado] [nvarchar](50) NOT NULL,
+ CONSTRAINT [PK_Usuarios] PRIMARY KEY CLUSTERED 
+(
+	[Documento] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+INSERT [dbo].[Familias] ([Codigo], [Descripcion]) VALUES (1, N'Administrador')
+GO
+INSERT [dbo].[Familias] ([Codigo], [Descripcion]) VALUES (2, N'Super-Empleado')
+GO
+INSERT [dbo].[Familias] ([Codigo], [Descripcion]) VALUES (3, N'Empleado')
+GO
+INSERT [dbo].[FamiliaXPatente] ([Codigo_Familia], [Codigo_Patente]) VALUES (1, 1)
+GO
+INSERT [dbo].[FamiliaXPatente] ([Codigo_Familia], [Codigo_Patente]) VALUES (1, 2)
+GO
+INSERT [dbo].[FamiliaXPatente] ([Codigo_Familia], [Codigo_Patente]) VALUES (1, 3)
+GO
+INSERT [dbo].[FamiliaXPatente] ([Codigo_Familia], [Codigo_Patente]) VALUES (1, 4)
+GO
+INSERT [dbo].[Patentes] ([Codigo], [Funcion]) VALUES (1, N'Alta')
+GO
+INSERT [dbo].[Patentes] ([Codigo], [Funcion]) VALUES (2, N'Baja')
+GO
+INSERT [dbo].[Patentes] ([Codigo], [Funcion]) VALUES (3, N'Modificar')
+GO
+INSERT [dbo].[Patentes] ([Codigo], [Funcion]) VALUES (4, N'Lista')
+GO
+INSERT [dbo].[Patentes] ([Codigo], [Funcion]) VALUES (5, N'Consulta')
+GO
+INSERT [dbo].[Productos] ([Codigo], [Responsable], [Nombre], [Costo], [Gasto_Previo], [Estado]) VALUES (3559, 87654321, N'Destornillador', 1750, 10, N'Reacondicionable')
+GO
+INSERT [dbo].[Productos] ([Codigo], [Responsable], [Nombre], [Costo], [Gasto_Previo], [Estado]) VALUES (4416, 87654321, N'Taladro', 14000, 67, N'Desechable')
+GO
+INSERT [dbo].[Productos] ([Codigo], [Responsable], [Nombre], [Costo], [Gasto_Previo], [Estado]) VALUES (2654, 87654321, N'Tornillo', 2, 80, N'Desechable')
+GO
+INSERT [dbo].[Productos] ([Codigo], [Responsable], [Nombre], [Costo], [Gasto_Previo], [Estado]) VALUES (6243, 87654321, N'Sierra', 4000, 64, N'Reacondicionable')
+GO
+INSERT [dbo].[Usuarios] ([Documento], [Nombre], [Apellido], [Fec_Nac], [Mail], [Contrasenia], [Rol], [Idioma], [Estado]) VALUES (12345123, N'Juan', N'Alaniz', CAST(N'2004-09-06T00:00:00.000' AS DateTime), N'Juan.Alaniz@Sanaima.edu.com.ar', N'Pepe', N'1', N'Español', N'0')
+GO
+INSERT [dbo].[Usuarios] ([Documento], [Nombre], [Apellido], [Fec_Nac], [Mail], [Contrasenia], [Rol], [Idioma], [Estado]) VALUES (45064777, N'Matias', N'Morello', CAST(N'2000-02-03T00:00:00.000' AS DateTime), N'Matias.Morello@Sanaima.edu.com.ar', N'Cake', N'2', N'Español', N'0')
+GO
+INSERT [dbo].[Usuarios] ([Documento], [Nombre], [Apellido], [Fec_Nac], [Mail], [Contrasenia], [Rol], [Idioma], [Estado]) VALUES (46687156, N'Santino', N'Capuozzo', CAST(N'2005-04-25T00:00:00.000' AS DateTime), N'a', N'a', N'2', N'English', N'0')
+GO
+INSERT [dbo].[Usuarios] ([Documento], [Nombre], [Apellido], [Fec_Nac], [Mail], [Contrasenia], [Rol], [Idioma], [Estado]) VALUES (66666666, N'Maria', N'Russo', CAST(N'2000-02-02T00:00:00.000' AS DateTime), N'Maria.Russo@Sanaima.edu.com.ar', N'asd', N'2', N'Ingles', N'1')
+GO
+INSERT [dbo].[Usuarios] ([Documento], [Nombre], [Apellido], [Fec_Nac], [Mail], [Contrasenia], [Rol], [Idioma], [Estado]) VALUES (86542134, N'Juan', N'Camello', CAST(N'2005-06-07T00:00:00.000' AS DateTime), N'Juan.Camello@Sanaima.edu.com.ar', N'Sis', N'2', N'Portugues', N'1')
+GO
+INSERT [dbo].[Usuarios] ([Documento], [Nombre], [Apellido], [Fec_Nac], [Mail], [Contrasenia], [Rol], [Idioma], [Estado]) VALUES (87654321, N'Ailin', N'Navarro', CAST(N'2005-03-02T00:00:00.000' AS DateTime), N'b', N'b', N'2', N'Portugues', N'0')
+GO
+ALTER TABLE [dbo].[FamiliaXPatente]  WITH CHECK ADD  CONSTRAINT [FK_FamiliaXPatente_Familias] FOREIGN KEY([Codigo_Familia])
+REFERENCES [dbo].[Familias] ([Codigo])
+GO
+ALTER TABLE [dbo].[FamiliaXPatente] CHECK CONSTRAINT [FK_FamiliaXPatente_Familias]
+GO
+ALTER TABLE [dbo].[FamiliaXPatente]  WITH CHECK ADD  CONSTRAINT [FK_FamiliaXPatente_Patentes] FOREIGN KEY([Codigo_Patente])
+REFERENCES [dbo].[Patentes] ([Codigo])
+GO
+ALTER TABLE [dbo].[FamiliaXPatente] CHECK CONSTRAINT [FK_FamiliaXPatente_Patentes]
+GO
+USE [master]
+GO
+ALTER DATABASE [Productos_Defectuosos] SET  READ_WRITE 
+GO

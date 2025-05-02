@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><project name="Proyecto Clima 2024 Arquitectura de Sistemas Operativos" company="" webLink="http://" view-date="2024-08-16" view-index="0" gantt-divider-location="344" resource-divider-location="300" version="3.2.3230" locale="en_US">
+    <description/>
+    <view zooming-state="default:3" id="gantt-chart">
+        <field id="tpd3" name="Name" width="204" order="0"/>
+        <field id="tpd4" name="Begin date" width="66" order="1"/>
+        <field id="tpd5" name="End date" width="73" order="2"/>
+        <option id="filter.completedTasks" value="false"/>
+        <option id="color.recent">
+            <![CDATA[#ff9900 #ff6600 #cc00ff #cc00cc #ff9933]]>
+        </option>
+    </view>
+    <view id="resource-table">
+        <field id="0" name="Name" width="210" order="0"/>
+        <field id="1" name="Default role" width="86" order="1"/>
+    </view>
+    <!-- -->
+    <calendars>
+        <day-types>
+            <day-type id="0"/>
+            <day-type id="1"/>
+            <default-week id="1" name="default" sun="1" mon="0" tue="0" wed="0" thu="0" fri="0" sat="1"/>
+            <only-show-weekends value="false"/>
+            <overriden-day-types/>
+            <days/>
+        </day-types>
+    </calendars>
+    <tasks empty-milestones="true">
+        <taskproperties>
+            <taskproperty id="tpd0" name="type" type="default" valuetype="icon"/>
+            <taskproperty id="tpd1" name="priority" type="default" valuetype="icon"/>
+            <taskproperty id="tpd2" name="info" type="default" valuetype="icon"/>
+            <taskproperty id="tpd3" name="name" type="default" valuetype="text"/>
+            <taskproperty id="tpd4" name="begindate" type="default" valuetype="date"/>
+            <taskproperty id="tpd5" name="enddate" type="default" valuetype="date"/>
+            <taskproperty id="tpd6" name="duration" type="default" valuetype="int"/>
+            <taskproperty id="tpd7" name="completion" type="default" valuetype="int"/>
+            <taskproperty id="tpd8" name="coordinator" type="default" valuetype="text"/>
+            <taskproperty id="tpd9" name="predecessorsr" type="default" valuetype="text"/>
+        </taskproperties>
+        <task id="0" name="Diseñar Arquitectura" color="#ff9900" meeting="false" start="2024-08-16" duration="5" complete="0" thirdDate="2024-08-16" thirdDate-constraint="0" expand="true"/>
+        <task id="1" name="Diseñar la BE, BLL, MPP y DAL" color="#cc00ff" meeting="false" start="2024-08-23" duration="10" complete="0" thirdDate="2024-08-14" thirdDate-constraint="0" expand="true"/>
+        <task id="3" name="Singleton" color="#cc00ff" meeting="false" start="2024-09-06" duration="5" complete="0" thirdDate="2024-08-14" thirdDate-constraint="0" expand="true"/>
+        <task id="7" name="Composite" color="#ff9900" meeting="false" start="2024-09-13" duration="10" complete="0" thirdDate="2024-08-14" thirdDate-constraint="0" expand="true"/>
+        <task id="4" name="Observer" color="#cc00ff" meeting="false" start="2024-09-27" duration="10" complete="0" thirdDate="2024-08-14" thirdDate-constraint="0" expand="true"/>
+        <task id="5" name="Responder a las Consignas A" color="#ff9900" meeting="false" start="2024-09-06" duration="5" complete="0" thirdDate="2024-08-14" thirdDate-constraint="0" expand="true"/>
+        <task id="9" name="Responder a las Consignas B" color="#cc00ff" meeting="false" start="2024-09-13" duration="10" complete="0" thirdDate="2024-09-13" thirdDate-constraint="0" expand="true"/>
+        <task id="12" name="Responder a las Consignas C" color="#ff9900" meeting="false" start="2024-09-27" duration="10" complete="0" thirdDate="2024-09-13" thirdDate-constraint="0" expand="true" cost-manual-value="0.0" cost-calculated="true"/>
+    </tasks>
+    <resources>
+        <resource id="0" name="Ivan Alejandro Urso" function="Default:1" contacts="ivanalejandrourso@gmail.com" phone="1154200796"/>
+        <resource id="1" name="Dana Perelmuter" function="Default:0" contacts="dperelmuter25@gmail.com" phone="1141616443"/>
+    </resources>
+    <allocations>
+        <allocation task-id="1" resource-id="0" function="Default:1" responsible="false" load="100.0"/>
+        <allocation task-id="3" resource-id="0" function="Default:1" responsible="false" load="100.0"/>
+        <allocation task-id="4" resource-id="0" function="Default:1" responsible="false" load="100.0"/>
+        <allocation task-id="9" resource-id="0" function="Default:1" responsible="false" load="100.0"/>
+        <allocation task-id="0" resource-id="1" function="Default:0" responsible="false" load="100.0"/>
+        <allocation task-id="7" resource-id="1" function="Default:0" responsible="false" load="100.0"/>
+        <allocation task-id="5" resource-id="1" function="Default:0" responsible="false" load="100.0"/>
+        <allocation task-id="12" resource-id="1" function="Default:0" responsible="false" load="100.0"/>
+    </allocations>
+    <vacations/>
+    <previous/>
+    <roles roleset-name="Default"/>
+</project>

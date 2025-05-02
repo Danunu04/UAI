@@ -1,0 +1,609 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31781845-721C-4AC3-910B-B700F59B97BA}|Registro_lluvia_Ivan_Dana\\GUI.csproj|C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\registro_lluvia_ivan_dana\\gesti\u00F3n_usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31781845-721C-4AC3-910B-B700F59B97BA}|Registro_lluvia_Ivan_Dana\\GUI.csproj|solutionrelative:registro_lluvia_ivan_dana\\gesti\u00F3n_usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31781845-721C-4AC3-910B-B700F59B97BA}|Registro_lluvia_Ivan_Dana\\GUI.csproj|C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\registro_lluvia_ivan_dana\\gesti\u00F3n_usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{31781845-721C-4AC3-910B-B700F59B97BA}|Registro_lluvia_Ivan_Dana\\GUI.csproj|solutionrelative:registro_lluvia_ivan_dana\\gesti\u00F3n_usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C8CDCA-B616-4F58-8CE2-8C5755CA9BDC}|DAL\\DAL.csproj|C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\dal\\dalusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C8CDCA-B616-4F58-8CE2-8C5755CA9BDC}|DAL\\DAL.csproj|solutionrelative:dal\\dalusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C8CDCA-B616-4F58-8CE2-8C5755CA9BDC}|DAL\\DAL.csproj|C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\dal\\dalbitacora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C8CDCA-B616-4F58-8CE2-8C5755CA9BDC}|DAL\\DAL.csproj|solutionrelative:dal\\dalbitacora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC722B3-BA9E-4248-9CB8-5D299007AC86}|BLL\\BLL.csproj|C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\bll\\blleventos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EC722B3-BA9E-4248-9CB8-5D299007AC86}|BLL\\BLL.csproj|solutionrelative:bll\\blleventos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31781845-721C-4AC3-910B-B700F59B97BA}|Registro_lluvia_Ivan_Dana\\GUI.csproj|c:\\users\\dpere\\escritorio\\uai\\programacion\\registro_lluvia_dana_ivan\\registro_lluvia_dana_ivan\\codigo\\registro_lluvia_ivan_dana\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31781845-721C-4AC3-910B-B700F59B97BA}|Registro_lluvia_Ivan_Dana\\GUI.csproj|solutionrelative:registro_lluvia_ivan_dana\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E72382F2-8FE4-4021-9289-F7A9CD0F08E3}|MPP\\MPP.csproj|C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\mpp\\mppusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E72382F2-8FE4-4021-9289-F7A9CD0F08E3}|MPP\\MPP.csproj|solutionrelative:mpp\\mppusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC722B3-BA9E-4248-9CB8-5D299007AC86}|BLL\\BLL.csproj|C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\bll\\bllusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EC722B3-BA9E-4248-9CB8-5D299007AC86}|BLL\\BLL.csproj|solutionrelative:bll\\bllusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31781845-721C-4AC3-910B-B700F59B97BA}|Registro_lluvia_Ivan_Dana\\GUI.csproj|C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\registro_lluvia_ivan_dana\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{31781845-721C-4AC3-910B-B700F59B97BA}|Registro_lluvia_Ivan_Dana\\GUI.csproj|solutionrelative:registro_lluvia_ivan_dana\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31781845-721C-4AC3-910B-B700F59B97BA}|Registro_lluvia_Ivan_Dana\\GUI.csproj|C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\registro_lluvia_ivan_dana\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31781845-721C-4AC3-910B-B700F59B97BA}|Registro_lluvia_Ivan_Dana\\GUI.csproj|solutionrelative:registro_lluvia_ivan_dana\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40369C2-0BE6-42B4-9714-5A3579506CDE}|SERVICIOS\\SERVICIOS.csproj|C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\servicios\\validaci\u00F3n.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E40369C2-0BE6-42B4-9714-5A3579506CDE}|SERVICIOS\\SERVICIOS.csproj|solutionrelative:servicios\\validaci\u00F3n.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31781845-721C-4AC3-910B-B700F59B97BA}|Registro_lluvia_Ivan_Dana\\GUI.csproj|C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\registro_lluvia_ivan_dana\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{31781845-721C-4AC3-910B-B700F59B97BA}|Registro_lluvia_Ivan_Dana\\GUI.csproj|solutionrelative:registro_lluvia_ivan_dana\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C8CDCA-B616-4F58-8CE2-8C5755CA9BDC}|DAL\\DAL.csproj|C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\dal\\dalsesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C8CDCA-B616-4F58-8CE2-8C5755CA9BDC}|DAL\\DAL.csproj|solutionrelative:dal\\dalsesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C8CDCA-B616-4F58-8CE2-8C5755CA9BDC}|DAL\\DAL.csproj|C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\dal\\dalreporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C8CDCA-B616-4F58-8CE2-8C5755CA9BDC}|DAL\\DAL.csproj|solutionrelative:dal\\dalreporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C8CDCA-B616-4F58-8CE2-8C5755CA9BDC}|DAL\\DAL.csproj|C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\dal\\dalevento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C8CDCA-B616-4F58-8CE2-8C5755CA9BDC}|DAL\\DAL.csproj|solutionrelative:dal\\dalevento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFDF15CE-D787-41E3-AF12-BDF0A9F6BF29}|DAL servisios\\DAL servicios.csproj|C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\dal servisios\\daldatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFDF15CE-D787-41E3-AF12-BDF0A9F6BF29}|DAL servisios\\DAL servicios.csproj|solutionrelative:dal servisios\\daldatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31781845-721C-4AC3-910B-B700F59B97BA}|Registro_lluvia_Ivan_Dana\\GUI.csproj|C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\registro_lluvia_ivan_dana\\reportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31781845-721C-4AC3-910B-B700F59B97BA}|Registro_lluvia_Ivan_Dana\\GUI.csproj|solutionrelative:registro_lluvia_ivan_dana\\reportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31781845-721C-4AC3-910B-B700F59B97BA}|Registro_lluvia_Ivan_Dana\\GUI.csproj|C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\registro_lluvia_ivan_dana\\reportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{31781845-721C-4AC3-910B-B700F59B97BA}|Registro_lluvia_Ivan_Dana\\GUI.csproj|solutionrelative:registro_lluvia_ivan_dana\\reportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{273EF3A5-6E9B-48FA-88C6-1794B12788D2}|MPP Servicios\\MPP Servicios.csproj|C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\mpp servicios\\mppdatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{273EF3A5-6E9B-48FA-88C6-1794B12788D2}|MPP Servicios\\MPP Servicios.csproj|solutionrelative:mpp servicios\\mppdatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E72382F2-8FE4-4021-9289-F7A9CD0F08E3}|MPP\\MPP.csproj|C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\mpp\\mppreporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E72382F2-8FE4-4021-9289-F7A9CD0F08E3}|MPP\\MPP.csproj|solutionrelative:mpp\\mppreporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31781845-721C-4AC3-910B-B700F59B97BA}|Registro_lluvia_Ivan_Dana\\GUI.csproj|C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\registro_lluvia_ivan_dana\\bitacora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31781845-721C-4AC3-910B-B700F59B97BA}|Registro_lluvia_Ivan_Dana\\GUI.csproj|solutionrelative:registro_lluvia_ivan_dana\\bitacora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31781845-721C-4AC3-910B-B700F59B97BA}|Registro_lluvia_Ivan_Dana\\GUI.csproj|C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\registro_lluvia_ivan_dana\\tareas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31781845-721C-4AC3-910B-B700F59B97BA}|Registro_lluvia_Ivan_Dana\\GUI.csproj|solutionrelative:registro_lluvia_ivan_dana\\tareas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC722B3-BA9E-4248-9CB8-5D299007AC86}|BLL\\BLL.csproj|C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\bll\\bllreporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EC722B3-BA9E-4248-9CB8-5D299007AC86}|BLL\\BLL.csproj|solutionrelative:bll\\bllreporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31781845-721C-4AC3-910B-B700F59B97BA}|Registro_lluvia_Ivan_Dana\\GUI.csproj|C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\registro_lluvia_ivan_dana\\tareas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{31781845-721C-4AC3-910B-B700F59B97BA}|Registro_lluvia_Ivan_Dana\\GUI.csproj|solutionrelative:registro_lluvia_ivan_dana\\tareas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40369C2-0BE6-42B4-9714-5A3579506CDE}|SERVICIOS\\SERVICIOS.csproj|C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\servicios\\alertasubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E40369C2-0BE6-42B4-9714-5A3579506CDE}|SERVICIOS\\SERVICIOS.csproj|solutionrelative:servicios\\alertasubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40369C2-0BE6-42B4-9714-5A3579506CDE}|SERVICIOS\\SERVICIOS.csproj|C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\servicios\\alertasmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E40369C2-0BE6-42B4-9714-5A3579506CDE}|SERVICIOS\\SERVICIOS.csproj|solutionrelative:servicios\\alertasmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40369C2-0BE6-42B4-9714-5A3579506CDE}|SERVICIOS\\SERVICIOS.csproj|C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\servicios\\isubjectalerta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E40369C2-0BE6-42B4-9714-5A3579506CDE}|SERVICIOS\\SERVICIOS.csproj|solutionrelative:servicios\\isubjectalerta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40369C2-0BE6-42B4-9714-5A3579506CDE}|SERVICIOS\\SERVICIOS.csproj|C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\servicios\\iobserveralerta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E40369C2-0BE6-42B4-9714-5A3579506CDE}|SERVICIOS\\SERVICIOS.csproj|solutionrelative:servicios\\iobserveralerta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40369C2-0BE6-42B4-9714-5A3579506CDE}|SERVICIOS\\SERVICIOS.csproj|C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\servicios\\isubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E40369C2-0BE6-42B4-9714-5A3579506CDE}|SERVICIOS\\SERVICIOS.csproj|solutionrelative:servicios\\isubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40369C2-0BE6-42B4-9714-5A3579506CDE}|SERVICIOS\\SERVICIOS.csproj|C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\servicios\\idioma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E40369C2-0BE6-42B4-9714-5A3579506CDE}|SERVICIOS\\SERVICIOS.csproj|solutionrelative:servicios\\idioma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40369C2-0BE6-42B4-9714-5A3579506CDE}|SERVICIOS\\SERVICIOS.csproj|C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\servicios\\languajemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E40369C2-0BE6-42B4-9714-5A3579506CDE}|SERVICIOS\\SERVICIOS.csproj|solutionrelative:servicios\\languajemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E72382F2-8FE4-4021-9289-F7A9CD0F08E3}|MPP\\MPP.csproj|C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\mpp\\mppeventos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E72382F2-8FE4-4021-9289-F7A9CD0F08E3}|MPP\\MPP.csproj|solutionrelative:mpp\\mppeventos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40369C2-0BE6-42B4-9714-5A3579506CDE}|SERVICIOS\\SERVICIOS.csproj|C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\servicios\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E40369C2-0BE6-42B4-9714-5A3579506CDE}|SERVICIOS\\SERVICIOS.csproj|solutionrelative:servicios\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dana Perelmuter\\AppData\\Local\\Temp\\.vsdbgsrc\\874e90753a931cd80a0da2879150c301b7910212f5521dedb2ab73ec1a94ed68\\BEPermisos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31781845-721C-4AC3-910B-B700F59B97BA}|Registro_lluvia_Ivan_Dana\\GUI.csproj|C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\registro_lluvia_ivan_dana\\bitacora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{31781845-721C-4AC3-910B-B700F59B97BA}|Registro_lluvia_Ivan_Dana\\GUI.csproj|solutionrelative:registro_lluvia_ivan_dana\\bitacora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31781845-721C-4AC3-910B-B700F59B97BA}|Registro_lluvia_Ivan_Dana\\GUI.csproj|C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\registro_lluvia_ivan_dana\\cambiaridioma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{31781845-721C-4AC3-910B-B700F59B97BA}|Registro_lluvia_Ivan_Dana\\GUI.csproj|solutionrelative:registro_lluvia_ivan_dana\\cambiaridioma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3CB648-0001-4EDC-A00C-67BE32AA5E65}|BE\\BE.csproj|C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\be\\beusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A3CB648-0001-4EDC-A00C-67BE32AA5E65}|BE\\BE.csproj|solutionrelative:be\\beusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BLLEventos.cs",
+              "DocumentMoniker": "C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\BLL\\BLLEventos.cs",
+              "RelativeDocumentMoniker": "BLL\\BLLEventos.cs",
+              "ToolTip": "C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\BLL\\BLLEventos.cs",
+              "RelativeToolTip": "BLL\\BLLEventos.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T21:44:21.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DALUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\DAL\\DALUsuario.cs",
+              "RelativeDocumentMoniker": "DAL\\DALUsuario.cs",
+              "ToolTip": "C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\DAL\\DALUsuario.cs",
+              "RelativeToolTip": "DAL\\DALUsuario.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAIAwwA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T18:14:24.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DALBitacora.cs",
+              "DocumentMoniker": "C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\DAL\\DALBitacora.cs",
+              "RelativeDocumentMoniker": "DAL\\DALBitacora.cs",
+              "ToolTip": "C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\DAL\\DALBitacora.cs",
+              "RelativeToolTip": "DAL\\DALBitacora.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T16:01:23.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Gesti\u00F3n_Usuarios.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\Registro_lluvia_Ivan_Dana\\Gesti\u00F3n_Usuarios.cs",
+              "RelativeDocumentMoniker": "Registro_lluvia_Ivan_Dana\\Gesti\u00F3n_Usuarios.cs",
+              "ToolTip": "C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\Registro_lluvia_Ivan_Dana\\Gesti\u00F3n_Usuarios.cs [Design]*",
+              "RelativeToolTip": "Registro_lluvia_Ivan_Dana\\Gesti\u00F3n_Usuarios.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T12:18:26.597Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Gesti\u00F3n_Usuarios.cs",
+              "DocumentMoniker": "C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\Registro_lluvia_Ivan_Dana\\Gesti\u00F3n_Usuarios.cs",
+              "RelativeDocumentMoniker": "Registro_lluvia_Ivan_Dana\\Gesti\u00F3n_Usuarios.cs",
+              "ToolTip": "C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\Registro_lluvia_Ivan_Dana\\Gesti\u00F3n_Usuarios.cs*",
+              "RelativeToolTip": "Registro_lluvia_Ivan_Dana\\Gesti\u00F3n_Usuarios.cs*",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAAB8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T12:18:27.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LogIN.cs",
+              "DocumentMoniker": "C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\Registro_lluvia_Ivan_Dana\\LogIN.cs",
+              "RelativeDocumentMoniker": "Registro_lluvia_Ivan_Dana\\LogIN.cs",
+              "ToolTip": "C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\Registro_lluvia_Ivan_Dana\\LogIN.cs",
+              "RelativeToolTip": "Registro_lluvia_Ivan_Dana\\LogIN.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAWwEMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T15:16:14.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LogIN.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\Registro_lluvia_Ivan_Dana\\LogIN.cs",
+              "RelativeDocumentMoniker": "Registro_lluvia_Ivan_Dana\\LogIN.cs",
+              "ToolTip": "C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\Registro_lluvia_Ivan_Dana\\LogIN.cs [Design]",
+              "RelativeToolTip": "Registro_lluvia_Ivan_Dana\\LogIN.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T15:16:12.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BLLUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\BLL\\BLLUsuario.cs",
+              "RelativeDocumentMoniker": "BLL\\BLLUsuario.cs",
+              "ToolTip": "C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\BLL\\BLLUsuario.cs",
+              "RelativeToolTip": "BLL\\BLLUsuario.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T18:01:43.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MPPUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\MPP\\MPPUsuario.cs",
+              "RelativeDocumentMoniker": "MPP\\MPPUsuario.cs",
+              "ToolTip": "C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\MPP\\MPPUsuario.cs",
+              "RelativeToolTip": "MPP\\MPPUsuario.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAA0wHUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T15:27:48.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Inicio.cs",
+              "DocumentMoniker": "C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\Registro_lluvia_Ivan_Dana\\Inicio.cs",
+              "RelativeDocumentMoniker": "Registro_lluvia_Ivan_Dana\\Inicio.cs",
+              "ToolTip": "C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\Registro_lluvia_Ivan_Dana\\Inicio.cs",
+              "RelativeToolTip": "Registro_lluvia_Ivan_Dana\\Inicio.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAhwC0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T17:46:31.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Validaci\u00F3n.cs",
+              "DocumentMoniker": "C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\SERVICIOS\\Validaci\u00F3n.cs",
+              "RelativeDocumentMoniker": "SERVICIOS\\Validaci\u00F3n.cs",
+              "ToolTip": "C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\SERVICIOS\\Validaci\u00F3n.cs",
+              "RelativeToolTip": "SERVICIOS\\Validaci\u00F3n.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T18:45:10.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MPPDatos.cs",
+              "DocumentMoniker": "C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\MPP Servicios\\MPPDatos.cs",
+              "RelativeDocumentMoniker": "MPP Servicios\\MPPDatos.cs",
+              "ToolTip": "C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\MPP Servicios\\MPPDatos.cs",
+              "RelativeToolTip": "MPP Servicios\\MPPDatos.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBEAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T00:29:55.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DALDatos.cs",
+              "DocumentMoniker": "C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\DAL servisios\\DALDatos.cs",
+              "RelativeDocumentMoniker": "DAL servisios\\DALDatos.cs",
+              "ToolTip": "C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\DAL servisios\\DALDatos.cs",
+              "RelativeToolTip": "DAL servisios\\DALDatos.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAB4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T00:27:38.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DALReporte.cs",
+              "DocumentMoniker": "C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\DAL\\DALReporte.cs",
+              "RelativeDocumentMoniker": "DAL\\DALReporte.cs",
+              "ToolTip": "C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\DAL\\DALReporte.cs",
+              "RelativeToolTip": "DAL\\DALReporte.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAewCYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T18:25:55.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Inicio.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\Registro_lluvia_Ivan_Dana\\Inicio.cs",
+              "RelativeDocumentMoniker": "Registro_lluvia_Ivan_Dana\\Inicio.cs",
+              "ToolTip": "C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\Registro_lluvia_Ivan_Dana\\Inicio.cs [Design]",
+              "RelativeToolTip": "Registro_lluvia_Ivan_Dana\\Inicio.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T17:46:27.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Reportes.cs",
+              "DocumentMoniker": "C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\Registro_lluvia_Ivan_Dana\\Reportes.cs",
+              "RelativeDocumentMoniker": "Registro_lluvia_Ivan_Dana\\Reportes.cs",
+              "ToolTip": "C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\Registro_lluvia_Ivan_Dana\\Reportes.cs",
+              "RelativeToolTip": "Registro_lluvia_Ivan_Dana\\Reportes.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAcwB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T23:20:03.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Bitacora.cs",
+              "DocumentMoniker": "C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\Registro_lluvia_Ivan_Dana\\Bitacora.cs",
+              "RelativeDocumentMoniker": "Registro_lluvia_Ivan_Dana\\Bitacora.cs",
+              "ToolTip": "C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\Registro_lluvia_Ivan_Dana\\Bitacora.cs",
+              "RelativeToolTip": "Registro_lluvia_Ivan_Dana\\Bitacora.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAqwDUAAAB8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T00:22:14.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Reportes.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\Registro_lluvia_Ivan_Dana\\Reportes.cs",
+              "RelativeDocumentMoniker": "Registro_lluvia_Ivan_Dana\\Reportes.cs",
+              "ToolTip": "C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\Registro_lluvia_Ivan_Dana\\Reportes.cs [Design]",
+              "RelativeToolTip": "Registro_lluvia_Ivan_Dana\\Reportes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T23:20:00.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DALEvento.cs",
+              "DocumentMoniker": "C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\DAL\\DALEvento.cs",
+              "RelativeDocumentMoniker": "DAL\\DALEvento.cs",
+              "ToolTip": "C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\DAL\\DALEvento.cs",
+              "RelativeToolTip": "DAL\\DALEvento.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAnwFcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T23:54:11.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DALSesion.cs",
+              "DocumentMoniker": "C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\DAL\\DALSesion.cs",
+              "RelativeDocumentMoniker": "DAL\\DALSesion.cs",
+              "ToolTip": "C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\DAL\\DALSesion.cs",
+              "RelativeToolTip": "DAL\\DALSesion.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAiwBIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T16:32:45.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AlertaSubject.cs",
+              "DocumentMoniker": "C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\SERVICIOS\\AlertaSubject.cs",
+              "RelativeDocumentMoniker": "SERVICIOS\\AlertaSubject.cs",
+              "ToolTip": "C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\SERVICIOS\\AlertaSubject.cs",
+              "RelativeToolTip": "SERVICIOS\\AlertaSubject.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowDIAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T23:22:43.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ISubject.cs",
+              "DocumentMoniker": "C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\SERVICIOS\\ISubject.cs",
+              "RelativeDocumentMoniker": "SERVICIOS\\ISubject.cs",
+              "ToolTip": "C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\SERVICIOS\\ISubject.cs",
+              "RelativeToolTip": "SERVICIOS\\ISubject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T23:24:47.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AlertasManager.cs",
+              "DocumentMoniker": "C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\SERVICIOS\\AlertasManager.cs",
+              "RelativeDocumentMoniker": "SERVICIOS\\AlertasManager.cs",
+              "ToolTip": "C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\SERVICIOS\\AlertasManager.cs",
+              "RelativeToolTip": "SERVICIOS\\AlertasManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T23:27:47.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IObserverAlerta.cs",
+              "DocumentMoniker": "C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\SERVICIOS\\IObserverAlerta.cs",
+              "RelativeDocumentMoniker": "SERVICIOS\\IObserverAlerta.cs",
+              "ToolTip": "C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\SERVICIOS\\IObserverAlerta.cs",
+              "RelativeToolTip": "SERVICIOS\\IObserverAlerta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T23:32:47.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MPPReporte.cs",
+              "DocumentMoniker": "C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\MPP\\MPPReporte.cs",
+              "RelativeDocumentMoniker": "MPP\\MPPReporte.cs",
+              "ToolTip": "C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\MPP\\MPPReporte.cs",
+              "RelativeToolTip": "MPP\\MPPReporte.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T00:39:12.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BLLReporte.cs",
+              "DocumentMoniker": "C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\BLL\\BLLReporte.cs",
+              "RelativeDocumentMoniker": "BLL\\BLLReporte.cs",
+              "ToolTip": "C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\BLL\\BLLReporte.cs",
+              "RelativeToolTip": "BLL\\BLLReporte.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAD4vxMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T12:30:14.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IsubjectAlerta.cs",
+              "DocumentMoniker": "C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\SERVICIOS\\IsubjectAlerta.cs",
+              "RelativeDocumentMoniker": "SERVICIOS\\IsubjectAlerta.cs",
+              "ToolTip": "C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\SERVICIOS\\IsubjectAlerta.cs",
+              "RelativeToolTip": "SERVICIOS\\IsubjectAlerta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T23:34:12.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Idioma.cs",
+              "DocumentMoniker": "C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\SERVICIOS\\Idioma.cs",
+              "RelativeDocumentMoniker": "SERVICIOS\\Idioma.cs",
+              "ToolTip": "C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\SERVICIOS\\Idioma.cs",
+              "RelativeToolTip": "SERVICIOS\\Idioma.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T23:36:55.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "BEPermisos.cs",
+              "DocumentMoniker": "C:\\Users\\Dana Perelmuter\\AppData\\Local\\Temp\\.vsdbgsrc\\874e90753a931cd80a0da2879150c301b7910212f5521dedb2ab73ec1a94ed68\\BEPermisos.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Dana Perelmuter\\AppData\\Local\\Temp\\.vsdbgsrc\\874e90753a931cd80a0da2879150c301b7910212f5521dedb2ab73ec1a94ed68\\BEPermisos.cs",
+              "ToolTip": "C:\\Users\\Dana Perelmuter\\AppData\\Local\\Temp\\.vsdbgsrc\\874e90753a931cd80a0da2879150c301b7910212f5521dedb2ab73ec1a94ed68\\BEPermisos.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Dana Perelmuter\\AppData\\Local\\Temp\\.vsdbgsrc\\874e90753a931cd80a0da2879150c301b7910212f5521dedb2ab73ec1a94ed68\\BEPermisos.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T15:53:31.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Evento.cs",
+              "DocumentMoniker": "C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\SERVICIOS\\Evento.cs",
+              "RelativeDocumentMoniker": "SERVICIOS\\Evento.cs",
+              "ToolTip": "C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\SERVICIOS\\Evento.cs",
+              "RelativeToolTip": "SERVICIOS\\Evento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T23:12:03.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "MPPEventos.cs",
+              "DocumentMoniker": "C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\MPP\\MPPEventos.cs",
+              "RelativeDocumentMoniker": "MPP\\MPPEventos.cs",
+              "ToolTip": "C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\MPP\\MPPEventos.cs",
+              "RelativeToolTip": "MPP\\MPPEventos.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAUwNIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T21:47:22.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Bitacora.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\Registro_lluvia_Ivan_Dana\\Bitacora.cs",
+              "RelativeDocumentMoniker": "Registro_lluvia_Ivan_Dana\\Bitacora.cs",
+              "ToolTip": "C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\Registro_lluvia_Ivan_Dana\\Bitacora.cs [Design]",
+              "RelativeToolTip": "Registro_lluvia_Ivan_Dana\\Bitacora.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T00:08:44.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "BEUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\BE\\BEUsuario.cs",
+              "RelativeDocumentMoniker": "BE\\BEUsuario.cs",
+              "ToolTip": "C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\BE\\BEUsuario.cs",
+              "RelativeToolTip": "BE\\BEUsuario.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T23:55:49.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "LanguajeManager.cs",
+              "DocumentMoniker": "C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\SERVICIOS\\LanguajeManager.cs",
+              "RelativeDocumentMoniker": "SERVICIOS\\LanguajeManager.cs",
+              "ToolTip": "C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\SERVICIOS\\LanguajeManager.cs",
+              "RelativeToolTip": "SERVICIOS\\LanguajeManager.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwC0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T17:29:24.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Tareas.cs",
+              "DocumentMoniker": "C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\Registro_lluvia_Ivan_Dana\\Tareas.cs",
+              "RelativeDocumentMoniker": "Registro_lluvia_Ivan_Dana\\Tareas.cs",
+              "ToolTip": "C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\Registro_lluvia_Ivan_Dana\\Tareas.cs",
+              "RelativeToolTip": "Registro_lluvia_Ivan_Dana\\Tareas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T17:11:05.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Tareas.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\Registro_lluvia_Ivan_Dana\\Tareas.cs",
+              "RelativeDocumentMoniker": "Registro_lluvia_Ivan_Dana\\Tareas.cs",
+              "ToolTip": "C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\Registro_lluvia_Ivan_Dana\\Tareas.cs [Design]",
+              "RelativeToolTip": "Registro_lluvia_Ivan_Dana\\Tareas.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T17:11:04.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CambiarIdioma.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\Registro_lluvia_Ivan_Dana\\CambiarIdioma.cs",
+              "RelativeDocumentMoniker": "Registro_lluvia_Ivan_Dana\\CambiarIdioma.cs",
+              "ToolTip": "C:\\Users\\dpere\\Escritorio\\UAI\\Programacion\\Registro_LLuvia_Dana_Ivan\\Registro_LLuvia_Dana_Ivan\\Codigo\\Registro_lluvia_Ivan_Dana\\CambiarIdioma.cs [Design]",
+              "RelativeToolTip": "Registro_lluvia_Ivan_Dana\\CambiarIdioma.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T16:28:23.953Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

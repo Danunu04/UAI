@@ -1,0 +1,10 @@
+TagRegistrar;Registrar
+TagDocumento;Documento
+TagApellido;Sobrenome
+TagNombre;Nome
+TagMail;E-mail
+TagFechaNacimeinto;Data de Nascimento
+TagContraseña;Senha
+TagRol;Função
+TagIdioma;Idioma
+TagTipoRol;1 - Administrador | 2 - Super-Empregado | 3 - Empregado

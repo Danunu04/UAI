@@ -1,0 +1,129 @@
+C:\Users\Santino\Desktop\Proyecto DAS\GUI\bin\Debug\Proyecto DAS.exe.config
+C:\Users\Santino\Desktop\Proyecto DAS\GUI\bin\Debug\Proyecto DAS.exe
+C:\Users\Santino\Desktop\Proyecto DAS\GUI\bin\Debug\Proyecto DAS.pdb
+C:\Users\Santino\Desktop\Proyecto DAS\GUI\bin\Debug\BE.dll
+C:\Users\Santino\Desktop\Proyecto DAS\GUI\bin\Debug\BE.pdb
+C:\Users\Santino\Desktop\Proyecto DAS\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\Santino\Desktop\Proyecto DAS\GUI\obj\Debug\Proyecto_DAS.Form1.resources
+C:\Users\Santino\Desktop\Proyecto DAS\GUI\obj\Debug\Proyecto_DAS.Properties.Resources.resources
+C:\Users\Santino\Desktop\Proyecto DAS\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\Santino\Desktop\Proyecto DAS\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Santino\Desktop\Proyecto DAS\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\Santino\Desktop\Proyecto DAS\GUI\obj\Debug\Proyecto DAS.exe
+C:\Users\Santino\Desktop\Proyecto DAS\GUI\obj\Debug\Proyecto DAS.pdb
+C:\Users\Santino\Desktop\Proyecto DAS\GUI\bin\Debug\BLL.dll
+C:\Users\Santino\Desktop\Proyecto DAS\GUI\bin\Debug\DAL.dll
+C:\Users\Santino\Desktop\Proyecto DAS\GUI\bin\Debug\BLL.pdb
+C:\Users\Santino\Desktop\Proyecto DAS\GUI\bin\Debug\DAL.pdb
+C:\Users\Navegador\Desktop\Proyecto DAS\Proyecto DAS\GUI\bin\Debug\Proyecto DAS.exe.config
+C:\Users\Navegador\Desktop\Proyecto DAS\Proyecto DAS\GUI\bin\Debug\Proyecto DAS.exe
+C:\Users\Navegador\Desktop\Proyecto DAS\Proyecto DAS\GUI\bin\Debug\Proyecto DAS.pdb
+C:\Users\Navegador\Desktop\Proyecto DAS\Proyecto DAS\GUI\bin\Debug\BE.dll
+C:\Users\Navegador\Desktop\Proyecto DAS\Proyecto DAS\GUI\bin\Debug\BLL.dll
+C:\Users\Navegador\Desktop\Proyecto DAS\Proyecto DAS\GUI\bin\Debug\DAL.dll
+C:\Users\Navegador\Desktop\Proyecto DAS\Proyecto DAS\GUI\bin\Debug\BE.pdb
+C:\Users\Navegador\Desktop\Proyecto DAS\Proyecto DAS\GUI\bin\Debug\BLL.pdb
+C:\Users\Navegador\Desktop\Proyecto DAS\Proyecto DAS\GUI\bin\Debug\DAL.pdb
+C:\Users\Navegador\Desktop\Proyecto DAS\Proyecto DAS\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\Navegador\Desktop\Proyecto DAS\Proyecto DAS\GUI\obj\Debug\Proyecto_DAS.Properties.Resources.resources
+C:\Users\Navegador\Desktop\Proyecto DAS\Proyecto DAS\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\Navegador\Desktop\Proyecto DAS\Proyecto DAS\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Navegador\Desktop\Proyecto DAS\Proyecto DAS\GUI\obj\Debug\GUI.csproj.Up2Date
+C:\Users\Navegador\Desktop\Proyecto DAS\Proyecto DAS\GUI\obj\Debug\Proyecto DAS.exe
+C:\Users\Navegador\Desktop\Proyecto DAS\Proyecto DAS\GUI\obj\Debug\Proyecto DAS.pdb
+C:\Users\Navegador\Desktop\Proyecto DAS\Proyecto DAS\GUI\bin\Debug\Servicios.dll
+C:\Users\Navegador\Desktop\Proyecto DAS\Proyecto DAS\GUI\bin\Debug\Servicios.pdb
+C:\Users\Navegador\Desktop\Proyecto DAS\Proyecto DAS\GUI\obj\Debug\Proyecto_DAS.Registrar_Producto.resources
+C:\Users\Santino\Desktop\Proyecto DAS\Proyecto DAS\GUI\bin\Debug\Proyecto DAS.exe.config
+C:\Users\Santino\Desktop\Proyecto DAS\Proyecto DAS\GUI\bin\Debug\Proyecto DAS.exe
+C:\Users\Santino\Desktop\Proyecto DAS\Proyecto DAS\GUI\bin\Debug\Proyecto DAS.pdb
+C:\Users\Santino\Desktop\Proyecto DAS\Proyecto DAS\GUI\bin\Debug\BE.dll
+C:\Users\Santino\Desktop\Proyecto DAS\Proyecto DAS\GUI\bin\Debug\BLL.dll
+C:\Users\Santino\Desktop\Proyecto DAS\Proyecto DAS\GUI\bin\Debug\Servicios.dll
+C:\Users\Santino\Desktop\Proyecto DAS\Proyecto DAS\GUI\bin\Debug\DAL.dll
+C:\Users\Santino\Desktop\Proyecto DAS\Proyecto DAS\GUI\bin\Debug\BE.pdb
+C:\Users\Santino\Desktop\Proyecto DAS\Proyecto DAS\GUI\bin\Debug\BLL.pdb
+C:\Users\Santino\Desktop\Proyecto DAS\Proyecto DAS\GUI\bin\Debug\Servicios.pdb
+C:\Users\Santino\Desktop\Proyecto DAS\Proyecto DAS\GUI\bin\Debug\DAL.pdb
+C:\Users\Santino\Desktop\Proyecto DAS\Proyecto DAS\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\Santino\Desktop\Proyecto DAS\Proyecto DAS\GUI\obj\Debug\Proyecto_DAS.Properties.Resources.resources
+C:\Users\Santino\Desktop\Proyecto DAS\Proyecto DAS\GUI\obj\Debug\Proyecto_DAS.Registrar_Producto.resources
+C:\Users\Santino\Desktop\Proyecto DAS\Proyecto DAS\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\Santino\Desktop\Proyecto DAS\Proyecto DAS\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Santino\Desktop\Proyecto DAS\Proyecto DAS\GUI\obj\Debug\Proyecto DAS.exe
+C:\Users\Santino\Desktop\Proyecto DAS\Proyecto DAS\GUI\obj\Debug\Proyecto DAS.pdb
+C:\Users\Santino\Desktop\Proyecto DAS\Proyecto DAS\GUI\obj\Debug\Proyecto_DAS.Menu.resources
+C:\Users\Santino\Desktop\Proyecto DAS\Proyecto DAS\GUI\obj\Debug\Proyecto_DAS.Registrar_Empleado.resources
+C:\Users\Navegador\Desktop\Proyecto DAS\Proyecto DAS\GUI\obj\Debug\Proyecto_DAS.Menu.resources
+C:\Users\Navegador\Desktop\Proyecto DAS\Proyecto DAS\GUI\obj\Debug\Proyecto_DAS.Registrar_Empleado.resources
+C:\Users\Santino\Desktop\Proyecto DAS\Proyecto DAS\GUI\obj\Debug\Proyecto_DAS.Iniciar_Sesion.resources
+C:\Users\Navegador\Desktop\Proyecto DAS\Proyecto DAS\GUI\obj\Debug\Proyecto_DAS.Iniciar_Sesion.resources
+C:\Users\Santino\Desktop\Proyecto DAS\Proyecto DAS\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\Santino\Desktop\Proyecto Sanaima\Proyecto DAS\GUI\bin\Debug\Proyecto DAS.exe.config
+C:\Users\Santino\Desktop\Proyecto Sanaima\Proyecto DAS\GUI\bin\Debug\Proyecto DAS.exe
+C:\Users\Santino\Desktop\Proyecto Sanaima\Proyecto DAS\GUI\bin\Debug\Proyecto DAS.pdb
+C:\Users\Santino\Desktop\Proyecto Sanaima\Proyecto DAS\GUI\bin\Debug\BE.dll
+C:\Users\Santino\Desktop\Proyecto Sanaima\Proyecto DAS\GUI\bin\Debug\BLL.dll
+C:\Users\Santino\Desktop\Proyecto Sanaima\Proyecto DAS\GUI\bin\Debug\Servicios.dll
+C:\Users\Santino\Desktop\Proyecto Sanaima\Proyecto DAS\GUI\bin\Debug\DAL.dll
+C:\Users\Santino\Desktop\Proyecto Sanaima\Proyecto DAS\GUI\bin\Debug\BE.pdb
+C:\Users\Santino\Desktop\Proyecto Sanaima\Proyecto DAS\GUI\bin\Debug\BLL.pdb
+C:\Users\Santino\Desktop\Proyecto Sanaima\Proyecto DAS\GUI\bin\Debug\Servicios.pdb
+C:\Users\Santino\Desktop\Proyecto Sanaima\Proyecto DAS\GUI\bin\Debug\DAL.pdb
+C:\Users\Santino\Desktop\Proyecto Sanaima\Proyecto DAS\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\Santino\Desktop\Proyecto Sanaima\Proyecto DAS\GUI\obj\Debug\Proyecto_DAS.Iniciar_Sesion.resources
+C:\Users\Santino\Desktop\Proyecto Sanaima\Proyecto DAS\GUI\obj\Debug\Proyecto_DAS.Menu.resources
+C:\Users\Santino\Desktop\Proyecto Sanaima\Proyecto DAS\GUI\obj\Debug\Proyecto_DAS.Properties.Resources.resources
+C:\Users\Santino\Desktop\Proyecto Sanaima\Proyecto DAS\GUI\obj\Debug\Proyecto_DAS.Registrar_Empleado.resources
+C:\Users\Santino\Desktop\Proyecto Sanaima\Proyecto DAS\GUI\obj\Debug\Proyecto_DAS.Registrar_Producto.resources
+C:\Users\Santino\Desktop\Proyecto Sanaima\Proyecto DAS\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\Santino\Desktop\Proyecto Sanaima\Proyecto DAS\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Santino\Desktop\Proyecto Sanaima\Proyecto DAS\GUI\obj\Debug\Proyecto DAS.exe
+C:\Users\Santino\Desktop\Proyecto Sanaima\Proyecto DAS\GUI\obj\Debug\Proyecto DAS.pdb
+C:\Users\Santino\Desktop\Proyecto Sanaima\Proyecto DAS\GUI\obj\Debug\GUI.csproj.Up2Date
+C:\Users\Ailu\Desktop\Proyecto Sanaima\Proyecto DAS\GUI\bin\Debug\Proyecto DAS.exe.config
+C:\Users\Ailu\Desktop\Proyecto Sanaima\Proyecto DAS\GUI\bin\Debug\Proyecto DAS.exe
+C:\Users\Ailu\Desktop\Proyecto Sanaima\Proyecto DAS\GUI\bin\Debug\Proyecto DAS.pdb
+C:\Users\Ailu\Desktop\Proyecto Sanaima\Proyecto DAS\GUI\bin\Debug\BE.dll
+C:\Users\Ailu\Desktop\Proyecto Sanaima\Proyecto DAS\GUI\bin\Debug\BLL.dll
+C:\Users\Ailu\Desktop\Proyecto Sanaima\Proyecto DAS\GUI\bin\Debug\Servicios.dll
+C:\Users\Ailu\Desktop\Proyecto Sanaima\Proyecto DAS\GUI\bin\Debug\DAL.dll
+C:\Users\Ailu\Desktop\Proyecto Sanaima\Proyecto DAS\GUI\bin\Debug\BE.pdb
+C:\Users\Ailu\Desktop\Proyecto Sanaima\Proyecto DAS\GUI\bin\Debug\BLL.pdb
+C:\Users\Ailu\Desktop\Proyecto Sanaima\Proyecto DAS\GUI\bin\Debug\Servicios.pdb
+C:\Users\Ailu\Desktop\Proyecto Sanaima\Proyecto DAS\GUI\bin\Debug\DAL.pdb
+C:\Users\Ailu\Desktop\Proyecto Sanaima\Proyecto DAS\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\Ailu\Desktop\Proyecto Sanaima\Proyecto DAS\GUI\obj\Debug\Proyecto_DAS.Iniciar_Sesion.resources
+C:\Users\Ailu\Desktop\Proyecto Sanaima\Proyecto DAS\GUI\obj\Debug\Proyecto_DAS.Menu.resources
+C:\Users\Ailu\Desktop\Proyecto Sanaima\Proyecto DAS\GUI\obj\Debug\Proyecto_DAS.Properties.Resources.resources
+C:\Users\Ailu\Desktop\Proyecto Sanaima\Proyecto DAS\GUI\obj\Debug\Proyecto_DAS.Registrar_Empleado.resources
+C:\Users\Ailu\Desktop\Proyecto Sanaima\Proyecto DAS\GUI\obj\Debug\Proyecto_DAS.Registrar_Producto.resources
+C:\Users\Ailu\Desktop\Proyecto Sanaima\Proyecto DAS\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\Ailu\Desktop\Proyecto Sanaima\Proyecto DAS\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Ailu\Desktop\Proyecto Sanaima\Proyecto DAS\GUI\obj\Debug\GUI.csproj.Up2Date
+C:\Users\Ailu\Desktop\Proyecto Sanaima\Proyecto DAS\GUI\obj\Debug\Proyecto DAS.exe
+C:\Users\Ailu\Desktop\Proyecto Sanaima\Proyecto DAS\GUI\obj\Debug\Proyecto DAS.pdb
+C:\Users\Santino\Desktop\Proyecto Sanaima\Proyecto DAS\GUI\obj\Debug\Proyecto_DAS.Gestionar_Empleado.resources
+C:\Users\dpere\OneDrive\Escritorio\Proyecto Sanaima 2.1\Proyecto Sanaima\Proyecto DAS\GUI\bin\Debug\Proyecto DAS.exe.config
+C:\Users\dpere\OneDrive\Escritorio\Proyecto Sanaima 2.1\Proyecto Sanaima\Proyecto DAS\GUI\bin\Debug\Proyecto DAS.exe
+C:\Users\dpere\OneDrive\Escritorio\Proyecto Sanaima 2.1\Proyecto Sanaima\Proyecto DAS\GUI\bin\Debug\Proyecto DAS.pdb
+C:\Users\dpere\OneDrive\Escritorio\Proyecto Sanaima 2.1\Proyecto Sanaima\Proyecto DAS\GUI\bin\Debug\BE.dll
+C:\Users\dpere\OneDrive\Escritorio\Proyecto Sanaima 2.1\Proyecto Sanaima\Proyecto DAS\GUI\bin\Debug\BLL.dll
+C:\Users\dpere\OneDrive\Escritorio\Proyecto Sanaima 2.1\Proyecto Sanaima\Proyecto DAS\GUI\bin\Debug\Servicios.dll
+C:\Users\dpere\OneDrive\Escritorio\Proyecto Sanaima 2.1\Proyecto Sanaima\Proyecto DAS\GUI\bin\Debug\DAL.dll
+C:\Users\dpere\OneDrive\Escritorio\Proyecto Sanaima 2.1\Proyecto Sanaima\Proyecto DAS\GUI\bin\Debug\BE.pdb
+C:\Users\dpere\OneDrive\Escritorio\Proyecto Sanaima 2.1\Proyecto Sanaima\Proyecto DAS\GUI\bin\Debug\BLL.pdb
+C:\Users\dpere\OneDrive\Escritorio\Proyecto Sanaima 2.1\Proyecto Sanaima\Proyecto DAS\GUI\bin\Debug\Servicios.pdb
+C:\Users\dpere\OneDrive\Escritorio\Proyecto Sanaima 2.1\Proyecto Sanaima\Proyecto DAS\GUI\bin\Debug\DAL.pdb
+C:\Users\dpere\OneDrive\Escritorio\Proyecto Sanaima 2.1\Proyecto Sanaima\Proyecto DAS\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\dpere\OneDrive\Escritorio\Proyecto Sanaima 2.1\Proyecto Sanaima\Proyecto DAS\GUI\obj\Debug\Proyecto_DAS.Gestionar_Empleado.resources
+C:\Users\dpere\OneDrive\Escritorio\Proyecto Sanaima 2.1\Proyecto Sanaima\Proyecto DAS\GUI\obj\Debug\Proyecto_DAS.Iniciar_Sesion.resources
+C:\Users\dpere\OneDrive\Escritorio\Proyecto Sanaima 2.1\Proyecto Sanaima\Proyecto DAS\GUI\obj\Debug\Proyecto_DAS.Menu.resources
+C:\Users\dpere\OneDrive\Escritorio\Proyecto Sanaima 2.1\Proyecto Sanaima\Proyecto DAS\GUI\obj\Debug\Proyecto_DAS.Properties.Resources.resources
+C:\Users\dpere\OneDrive\Escritorio\Proyecto Sanaima 2.1\Proyecto Sanaima\Proyecto DAS\GUI\obj\Debug\Proyecto_DAS.Registrar_Empleado.resources
+C:\Users\dpere\OneDrive\Escritorio\Proyecto Sanaima 2.1\Proyecto Sanaima\Proyecto DAS\GUI\obj\Debug\Proyecto_DAS.Registrar_Producto.resources
+C:\Users\dpere\OneDrive\Escritorio\Proyecto Sanaima 2.1\Proyecto Sanaima\Proyecto DAS\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\dpere\OneDrive\Escritorio\Proyecto Sanaima 2.1\Proyecto Sanaima\Proyecto DAS\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\dpere\OneDrive\Escritorio\Proyecto Sanaima 2.1\Proyecto Sanaima\Proyecto DAS\GUI\obj\Debug\GUI.csproj.Up2Date
+C:\Users\dpere\OneDrive\Escritorio\Proyecto Sanaima 2.1\Proyecto Sanaima\Proyecto DAS\GUI\obj\Debug\Proyecto DAS.exe
+C:\Users\dpere\OneDrive\Escritorio\Proyecto Sanaima 2.1\Proyecto Sanaima\Proyecto DAS\GUI\obj\Debug\Proyecto DAS.pdb
